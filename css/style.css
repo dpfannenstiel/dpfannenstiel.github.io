@@ -1,0 +1,247 @@
+/*
+Theme Name: Grimorum
+Theme URI: https://github.com/dpfannenstiel/Grimorum
+Version: 0.1
+Author: Dustin Pfannenstiel
+Author URI: http://www.nth-estate.com
+Description: Grimorum is a wordpress theme designed to be used as a development blog.
+Tags: code, iOS, development, software, engineer, engineering, coding, programming
+*/
+
+/* Table of Contents
+====================
+
+	00 - CSS Reset
+	01 - Load Fonts
+	02 - Basic CSS
+	03 - Page Layout
+	04 - Code Formatting
+	
+	99 - Unsorted CSS
+
+====================
+*/
+
+/*	00 - CSS Reset
+====================
+*/
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/*	01 - Load Fonts
+====================
+*/
+@font-face {
+	font-family: Voltaire;  
+	src: local('Voltaire-Regular'), 
+		url("fonts/Voltaire/Voltaire-Regular.ttf") format('truetype');  
+	font-weight: normal;  
+}
+
+@font-face {
+	font-family: CrimsonText-Bold;
+	src: local('CrimsonText-Bold'),
+		url("fonts/Crimson_Text/CrimsonText-Bold") format('truetype');
+	font-weight: bolder;
+}
+
+@font-face {
+	font-family: CrimsonText-Bolditalic;
+	src: local('CrimsonText-Bolditalic'),
+		url("fonts/Crimson_Text/CrimsonText-Bolditalic") format('truetype');
+	font-weight: bolder;
+}
+
+@font-face {
+	font-family: CrimsonText-Italic;
+	src: local('CrimsonText-Italic'),
+		url("fonts/Crimson_Text/CrimsonText-Italic") format('truetype');
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: CrimsonText-Roman;
+	src: local('CrimsonText-Roman'),
+		url("fonts/Crimson_Text/CrimsonText-Roman") format('truetype');
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: CrimsonText-Semibold;
+	src: local('CrimsonText-Semibold'),
+		url("fonts/Crimson_Text/CrimsonText-Semibold") format('truetype');
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: CrimsonText-Semibolditalic;
+	src: local('CrimsonText-Semibolditalic'),
+		url("fonts/Crimson_Text/CrimsonText-Semibolditalic") format('truetype');
+	font-weight: bold;
+}
+
+/*	02 - Basic CSS
+====================
+*/
+body { 
+	text-align: justify; 
+	margin: 0px auto;
+	font-size: 12pt;
+	font-family: CrimsonText-Roman;
+	line-height: 1.2em;
+}
+
+p {
+	margin-top: 0.75em;
+	margin-bottom: 0.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 0.75em;
+	margin-bottom: 0.5em;
+	font-family: Voltaire; 
+	line-height: 1.2em;
+}
+
+/*	04 - Code Formatting
+====================
+*/
+pre {
+	width: inherit;
+	margin-left: 3%;
+	margin-right: 3%;
+	height: auto;
+	overflow:scroll;
+	background: #ffeeac;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+code {
+	overflow:inherit;
+	background: #ffeeac;
+	color: #086118;
+	word-wrap: inherit;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 10pt;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+
+/*	99 - Unsorted CSS
+====================
+*/
+
+#wrapper { 
+	display: block; 
+	border: 1px #a2a2a2 solid; 
+	width:90%; 
+	margin:0px auto; 
+}
+ 
+a:link {color:#00C90D;}      /* unvisited link */
+a:visited {color:#9BED00;}  /* visited link */
+a:hover {color:#FF0700;}  /* mouse over link */
+a:active {color:#BF3330;}  /* selected link */
+a:visited {color:#00C90D;}      /* unvisited link */
+
+#header-blogname {
+	font-family: Voltaire;
+	margin-left: 40;
+	margin-right: 40;
+	padding-top: 20;
+	font-size: 40pt;
+	line-height: 1.2em;
+}
+
+#header-blogdescription {
+	font-family: Voltaire; 
+	margin-left: 60;
+	margin-right: 40;
+	padding-bottom: 20;
+	font-size: 30pt;
+	line-height: 1.2em;
+}
+
+#header { 
+	margin: 0;
+	margin-top: 20px ;
+	width:100%; 
+	background-color: #01939A;
+}
+
+#content { width: 75%; border: 2px #a2a2a2 solid; float: left; }
+
+#sidebar { 
+	width: 23%; 
+	border: 2px #a2a2a2 solid; 
+	float: right; 
+}
+
+#delimiter { 
+	clear: both; 
+}
+
+#footer { 
+	border: 2px #a2a2a2 solid; 
+}
+
+.title { 
+	font-size: 11pt; 
+	font-family: verdana; 
+	font-weight: bold; 
+}
+
+.post-excerpt {
+	text-align: left;
+	color: red;
+}
