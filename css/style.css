@@ -232,9 +232,9 @@ a:visited {color:#00C90D;}      /* unvisited link */
 #sidebar { 
 	margin-top: 20px;
 	margin-bottom: 20px;
-	min-height: 20px;
+/*	min-height: 20px; */
 	width: 23%; 
-	border: 2px #a2a2a2 solid; 
+/*	border: 2px #a2a2a2 solid; */
 	float: right; 
 }
 
