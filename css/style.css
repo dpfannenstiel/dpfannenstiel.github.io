@@ -141,6 +141,16 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.2em;
 }
 
+ul {
+	list-style-type: circle;
+	margin-left: 20px;
+}
+
+ol {
+	list-style-type: lower-greek;
+	margin-left: 20px;
+}
+
 /*	04 - Code Formatting
 ====================
 */
@@ -175,7 +185,7 @@ code {
 
 #wrapper { 
 	display: block; 
-	border: 1px #a2a2a2 solid; 
+/*	border: 1px #a2a2a2 solid; */
 	width:90%; 
 	margin:0px auto; 
 }
@@ -211,9 +221,18 @@ a:visited {color:#00C90D;}      /* unvisited link */
 	background-color: #01939A;
 }
 
-#content { width: 75%; border: 2px #a2a2a2 solid; float: left; }
+#content { 
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 75%; 
+/*	border: 2px #a2a2a2 solid; */
+	float: left; 
+}
 
 #sidebar { 
+	margin-top: 20px;
+	margin-bottom: 20px;
+	min-height: 20px;
 	width: 23%; 
 	border: 2px #a2a2a2 solid; 
 	float: right; 
@@ -224,7 +243,7 @@ a:visited {color:#00C90D;}      /* unvisited link */
 }
 
 #footer { 
-	border: 2px #a2a2a2 solid; 
+/*	border: 2px #a2a2a2 solid; */
 }
 
 .title { 

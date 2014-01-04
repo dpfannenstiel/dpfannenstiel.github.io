@@ -8,8 +8,11 @@
 
 		{% include header.html %}
 
-		{{ content }}
-
+		<div id="content">
+			{{ content }}
+		</div>
+		{% include sidebar.html %}
+		<div id="delimiter"></div>
 		{% include footer.html %}
 
 	</div>
