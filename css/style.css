@@ -151,6 +151,56 @@ ol {
 	margin-left: 20px;
 }
 
+a:link {color:#00C90D;}      /* unvisited link */
+a:visited {color:#9BED00;}  /* visited link */
+a:hover {color:#FF0700;}  /* mouse over link */
+a:active {color:#BF3330;}  /* selected link */
+a:visited {color:#00C90D;}      /* unvisited link */
+
+/*  03 - Page Layout
+====================
+*/
+
+#wrapper { 
+	display: block; 
+/*	border: 1px #a2a2a2 solid; */
+	width:90%; 
+	margin:0px auto; 
+}
+ 
+#header { 
+	margin: 0;
+	margin-top: 20px ;
+	width:100%; 
+	background-color: #01939A;
+}
+
+#content { 
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 75%; 
+/*	border: 2px #a2a2a2 solid; */
+	float: left; 
+}
+
+#sidebar { 
+	margin-top: 20px;
+	margin-bottom: 20px;
+/*	min-height: 20px; */
+	width: 23%; 
+/*	border: 2px #a2a2a2 solid; */
+	float: right; 
+}
+
+#delimiter { 
+	clear: both; 
+}
+
+#footer { 
+/*	border: 2px #a2a2a2 solid; */
+}
+
+
 /*	04 - Code Formatting
 ====================
 */
@@ -183,68 +233,27 @@ code {
 ====================
 */
 
-#wrapper { 
-	display: block; 
-/*	border: 1px #a2a2a2 solid; */
-	width:90%; 
-	margin:0px auto; 
-}
- 
-a:link {color:#00C90D;}      /* unvisited link */
-a:visited {color:#9BED00;}  /* visited link */
-a:hover {color:#FF0700;}  /* mouse over link */
-a:active {color:#BF3330;}  /* selected link */
-a:visited {color:#00C90D;}      /* unvisited link */
-
 #header-blogname {
 	font-family: Voltaire;
-	margin-left: 40;
-	margin-right: 40;
-	padding-top: 20;
+	margin: 0px;
+	margin-left: 40px;
+	margin-right: 40px;
+	padding-top: 20px;
 	font-size: 40pt;
 	line-height: 1.2em;
 }
 
 #header-blogdescription {
-	font-family: Voltaire; 
-	margin-left: 60;
-	margin-right: 40;
-	padding-bottom: 20;
+	font-family: Voltaire;
+	margin: 0px; 
+	margin-left: 60px;
+	margin-right: 40px;
+	padding-bottom: 20px;
 	font-size: 30pt;
 	line-height: 1.2em;
+	color: #466FD5;
 }
 
-#header { 
-	margin: 0;
-	margin-top: 20px ;
-	width:100%; 
-	background-color: #01939A;
-}
-
-#content { 
-	margin-top: 20px;
-	margin-bottom: 20px;
-	width: 75%; 
-/*	border: 2px #a2a2a2 solid; */
-	float: left; 
-}
-
-#sidebar { 
-	margin-top: 20px;
-	margin-bottom: 20px;
-/*	min-height: 20px; */
-	width: 23%; 
-/*	border: 2px #a2a2a2 solid; */
-	float: right; 
-}
-
-#delimiter { 
-	clear: both; 
-}
-
-#footer { 
-/*	border: 2px #a2a2a2 solid; */
-}
 
 .title { 
 	font-size: 11pt; 
