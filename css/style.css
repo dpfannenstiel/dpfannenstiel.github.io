@@ -78,42 +78,42 @@ table {
 @font-face {
 	font-family: CrimsonText-Bold;
 	src: local('CrimsonText-Bold'),
-		url("../fonts/Crimson_Text/CrimsonText-Bold") format('truetype');
+		url("../fonts/Crimson_Text/CrimsonText-Bold.ttf") format('truetype');
 	font-weight: bolder;
 }
 
 @font-face {
 	font-family: CrimsonText-Bolditalic;
 	src: local('CrimsonText-Bolditalic'),
-		url("../fonts/Crimson_Text/CrimsonText-Bolditalic") format('truetype');
+		url("../fonts/Crimson_Text/CrimsonText-Bolditalic.ttf") format('truetype');
 	font-weight: bolder;
 }
 
 @font-face {
 	font-family: CrimsonText-Italic;
 	src: local('CrimsonText-Italic'),
-		url("../fonts/Crimson_Text/CrimsonText-Italic") format('truetype');
+		url("../fonts/Crimson_Text/CrimsonText-Italic.ttf") format('truetype');
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: CrimsonText-Roman;
 	src: local('CrimsonText-Roman'),
-		url("../fonts/Crimson_Text/CrimsonText-Roman") format('truetype');
+		url("../fonts/Crimson_Text/CrimsonText-Roman.ttf") format('truetype');
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: CrimsonText-Semibold;
 	src: local('CrimsonText-Semibold'),
-		url("../fonts/Crimson_Text/CrimsonText-Semibold") format('truetype');
+		url("../fonts/Crimson_Text/CrimsonText-Semibold.ttf") format('truetype');
 	font-weight: bold;
 }
 
 @font-face {
 	font-family: CrimsonText-Semibolditalic;
 	src: local('CrimsonText-Semibolditalic'),
-		url("../fonts/Crimson_Text/CrimsonText-Semibolditalic") format('truetype');
+		url("../fonts/Crimson_Text/CrimsonText-Semibolditalic.ttf") format('truetype');
 	font-weight: bold;
 }
 

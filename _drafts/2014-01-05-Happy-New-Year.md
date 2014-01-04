@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post 
 title: New Year, New Blog
 excerpt: An explination of the new blog and why Jekyll is being used to deploy it.
 ---
