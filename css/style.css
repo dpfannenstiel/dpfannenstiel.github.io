@@ -1,13 +1,3 @@
-/*
-Theme Name: Grimorum
-Theme URI: https://github.com/dpfannenstiel/Grimorum
-Version: 0.1
-Author: Dustin Pfannenstiel
-Author URI: http://www.nth-estate.com
-Description: Grimorum is a wordpress theme designed to be used as a development blog.
-Tags: code, iOS, development, software, engineer, engineering, coding, programming
-*/
-
 /* Table of Contents
 ====================
 
@@ -77,54 +67,56 @@ table {
 /*	01 - Load Fonts
 ====================
 */
+
 @font-face {
 	font-family: Voltaire;  
 	src: local('Voltaire-Regular'), 
-		url("fonts/Voltaire/Voltaire-Regular.ttf") format('truetype');  
+		url("../fonts/Voltaire/Voltaire-Regular.ttf") format('truetype');  
 	font-weight: normal;  
 }
 
 @font-face {
 	font-family: CrimsonText-Bold;
 	src: local('CrimsonText-Bold'),
-		url("fonts/Crimson_Text/CrimsonText-Bold") format('truetype');
+		url("../fonts/Crimson_Text/CrimsonText-Bold") format('truetype');
 	font-weight: bolder;
 }
 
 @font-face {
 	font-family: CrimsonText-Bolditalic;
 	src: local('CrimsonText-Bolditalic'),
-		url("fonts/Crimson_Text/CrimsonText-Bolditalic") format('truetype');
+		url("../fonts/Crimson_Text/CrimsonText-Bolditalic") format('truetype');
 	font-weight: bolder;
 }
 
 @font-face {
 	font-family: CrimsonText-Italic;
 	src: local('CrimsonText-Italic'),
-		url("fonts/Crimson_Text/CrimsonText-Italic") format('truetype');
+		url("../fonts/Crimson_Text/CrimsonText-Italic") format('truetype');
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: CrimsonText-Roman;
 	src: local('CrimsonText-Roman'),
-		url("fonts/Crimson_Text/CrimsonText-Roman") format('truetype');
+		url("../fonts/Crimson_Text/CrimsonText-Roman") format('truetype');
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: CrimsonText-Semibold;
 	src: local('CrimsonText-Semibold'),
-		url("fonts/Crimson_Text/CrimsonText-Semibold") format('truetype');
+		url("../fonts/Crimson_Text/CrimsonText-Semibold") format('truetype');
 	font-weight: bold;
 }
 
 @font-face {
 	font-family: CrimsonText-Semibolditalic;
 	src: local('CrimsonText-Semibolditalic'),
-		url("fonts/Crimson_Text/CrimsonText-Semibolditalic") format('truetype');
+		url("../fonts/Crimson_Text/CrimsonText-Semibolditalic") format('truetype');
 	font-weight: bold;
 }
+
 
 /*	02 - Basic CSS
 ====================
