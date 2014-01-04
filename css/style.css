@@ -167,11 +167,25 @@ ol {
 	margin-left: 20px;
 }
 
-a:link {color:#00C90D;}      /* unvisited link */
-a:visited {color:#9BED00;}  /* visited link */
-a:hover {color:#FF0700;}  /* mouse over link */
-a:active {color:#BF3330;}  /* selected link */
-a:visited {color:#00C90D;}      /* unvisited link */
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color:#00C90D;
+}      /* unvisited link */
+
+a:visited {
+	color:#9BED00;
+}  /* visited link */
+
+a:hover {
+	color:#FF0700;
+}  /* mouse over link */
+
+a:active {
+	color:#BF3330;
+}  /* selected link */
 
 /*  03 - Page Layout
 ====================
@@ -202,10 +216,10 @@ a:visited {color:#00C90D;}      /* unvisited link */
 #sidebar { 
 	margin-top: 20px;
 	margin-bottom: 20px;
-/*	min-height: 20px; */
 	width: 23%; 
 /*	border: 2px #a2a2a2 solid; */
 	float: right; 
+	background-color: #34C6CD;
 }
 
 #delimiter { 
