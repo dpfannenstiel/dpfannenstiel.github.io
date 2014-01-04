@@ -10,6 +10,10 @@
 	99 - Unsorted CSS
 
 ====================
+
+Color Scheme: http://colorschemedesigner.com/#3j61Tw0w0w0w0
+
+====================
 */
 
 /*	00 - CSS Reset
@@ -134,9 +138,21 @@ p {
 	margin-bottom: 0.5em;
 }
 
+h1 {
+	font-size: 40pt;
+}
+
+h2 {
+	font-size: 30pt;
+}
+
+h3 {
+	font-size: 24pt;
+}
+
 h1, h2, h3, h4, h5, h6 {
-	margin-top: 0.75em;
-	margin-bottom: 0.5em;
+	margin-top: 0.25em;
+	margin-bottom: 0.25em;
 	font-family: Voltaire; 
 	line-height: 1.2em;
 }
@@ -179,7 +195,7 @@ a:visited {color:#00C90D;}      /* unvisited link */
 	margin-top: 20px;
 	margin-bottom: 20px;
 	width: 75%; 
-/*	border: 2px #a2a2a2 solid; */
+/*  border: 2px #a2a2a2 solid; */
 	float: left; 
 }
 
@@ -200,6 +216,9 @@ a:visited {color:#00C90D;}      /* unvisited link */
 /*	border: 2px #a2a2a2 solid; */
 }
 
+.excerpt {
+	font-size: 14pt;
+}
 
 /*	04 - Code Formatting
 ====================
@@ -251,7 +270,7 @@ code {
 	padding-bottom: 20px;
 	font-size: 30pt;
 	line-height: 1.2em;
-	color: #466FD5;
+	color: #FF9840;
 }
 
 
