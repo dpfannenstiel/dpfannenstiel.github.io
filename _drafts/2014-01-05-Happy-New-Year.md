@@ -2,8 +2,9 @@
 layout: post 
 title: New Year, New Blog
 excerpt: Happy New Year!  I'm beginning my year of blogging by setting up a blog using Jekyll.
+date: 2014-01-05 17:30:00 -0500
 ---
-# Happy New Year!
+Happy New Year!
 
 At the close of 2013 I started looking for a project to occupy my 2014.  Something to keep me active and engaged in my 
 off hours.  You know, a hobby.  As I ran through the possible options they all came back to 
@@ -30,9 +31,11 @@ Speaking with a coworker, though, I was told about Github Pages and [Jekyll](htt
 
 There are, however, a few challenges as well:
 
+* **Barriers to Entry** - I didn\'t find much in the way of ready to use themes or designs.  I\'m hand rolling the entire site.  If you have experience with HTML and CSS, then this shouldn\'t be much of an issue.  As a new blogger I\'ve had to learn the basics quickly.  Thankfully, there is a lot of sample code linked through Jekyll\'s site.  Also, this site is being coded with vim, so I am still teaching myself text editing functions of the tool.
+
 * **Code** - The whole point of this was to provide high quality &lt;code> blocks and not have to learn a new language.  While you *can* use standard Markdown formatting for code, you\'re going to want to use [Pygments](http://pygments.org). My limited experience with it shows that it can do everything I\'m looking for and all without coding it myself.
 
-* **Barriers to Entry** - I didn\'t find much in the way of ready to use themes or designs.  I\'m hand rolling the entire site.  If you have experience with HTML and CSS, then this shouldn\'t be much of an issue.  As a new blogger I\'ve had to learn the basics quickly.  Thankfully, there is a lot of sample code linked through Jekyll\'s site.  Also, this site is being coded with vim, so I am still teaching myself text editing functions of the tool.
+* **Liquid** - Yet another templating language I\'m going to have to learn. C\'est la vie.  I\'m still not 100% certain how to leverage it, but that will get figured out soon enough.
 
 ## 25 To Go
 
