@@ -1,3 +1,9 @@
 pygments: true
 
 url: http://dpfannenstiel.github.io
+
+permalink: /blog/:year/:title
+
+timezone: America/New_York
+
+include: [pages]

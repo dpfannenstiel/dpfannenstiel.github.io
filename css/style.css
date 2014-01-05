@@ -142,6 +142,13 @@ strong {
 	font-weight: bold;
 }
 
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 0.25em;
+	margin-bottom: 0.25em;
+	font-family: Voltaire; 
+	line-height: 1.2em;
+}
+
 h1 {
 	font-size: 40pt;
 }
@@ -154,11 +161,16 @@ h3 {
 	font-size: 24pt;
 }
 
-h1, h2, h3, h4, h5, h6 {
-	margin-top: 0.25em;
-	margin-bottom: 0.25em;
-	font-family: Voltaire; 
-	line-height: 1.2em;
+h4 {
+	font-size: 20pt;
+}
+
+h5 {
+	font-size: 16pt;
+}
+
+h6 {
+	font-size: 12pt;
 }
 
 ul {

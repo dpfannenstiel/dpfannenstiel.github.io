@@ -18,4 +18,4 @@ The contents of the following directories and their content are Copyright Dustin
 
 * pages/
 
-All other directories and files are MIT Licensed.  Do what you will with them, links back are appreciated.
+All other directories and files are MIT Licensed except where other author's licenses apply.  Do what you will with them, links back are appreciated.

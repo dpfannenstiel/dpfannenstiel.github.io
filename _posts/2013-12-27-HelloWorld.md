@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World
+date: 2014-01-04 17:30:00 -0500
 ---
 
 Hello World!
