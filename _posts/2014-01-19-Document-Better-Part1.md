@@ -9,6 +9,12 @@ but few of us actually find the time for. Beginning with XCode 5, however,
 documentation is now in the developer\'s own best interest. Since XCode 5 supports
 the display of third party documentation within XCode\'s Quick Help pane.
 
+The next step is to actually generate rich documentation for third parties to use.
+While HeaderDoc and DOxygen have been around for a while, having grown up within
+the Apple ecosystem, the styling leads something to be desired.  From a practical
+standpoint, having to learn new documentation schema can result in additional costs
+to learn and become proficient with.
+
 appledoc
 --------
 
@@ -17,6 +23,12 @@ based documentation generation program designed to look like Apple\'s own
 documentation. Though very complete, it is still in active development. I\'ve
 found the developer community to be very responsive, with many tips available
 through their github [issues](https://github.com/tomaz/appledoc/issues?state=open "appledoc Issues") page.
+
+At the conclusion of a successful appledoc run a docset is generated.  Docsets are the standard format that
+existing Apple Documentation stored.  Once a docset is generated, you may access your
+custom documentation through the docset viewer of your choice.  XCode\'s documentation viewer
+is available, but recently I have also become a fan of [Dash](https://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12),
+available on the Mac App Store for free, but in app purchase is availabe for - something, I forget. But, it is worth it.
 
 This use guide has been constructed based on comments in the issues page, use
 of appledoc in production, and an examination of the [source code](https://github.com/tomaz/appledoc "appledoc on Github").
@@ -40,7 +52,11 @@ Alternatively you can install via Homebrew - `brew install appledoc`
 Comment Blocks
 --------------
 
-AppleDoc supports three types of comment blocks.
+Comment blocks are the source of all comments and notations for appledoc.
+When a token is preceeded by a valid comment block that token is included
+in the resulting documentation with the provided comments.
+
+appledoc supports three types of comment blocks:
 
 * `/*!`
 
@@ -53,9 +69,9 @@ system, including XCode 5\'s Quick Help documentation. Naturally, these comment
 block still end in `*/`.
 
 The line formatting within comment blocks supply context to the final
-documentation. The first line is accepted as the "abstract" for the
+documentation. The first line is accepted as the \"abstract\" for the
 documentation element. Supply a blank line and then further documentation that
-will become the "discussion" section of the documentation.
+will become the \"discussion\" section of the documentation.
 
 {% highlight objective-c %}
 /*! There's one space and between the exclamation point and the start of this sentence.
@@ -73,21 +89,40 @@ Tokens
 ------
 
 Most common elements of a program are supported as tokens that can be documented in appledoc.
+In some cases these element will generate whole, individual documents.  In others, the token
+will be documented within another document.  Still other tokens determine their inclusion status
+based on settings provided to appldoc.
 
-* **Classes** -
+* **Classes** - Are commented prior to the `@interface` declaration. These tokens will result
+in individual documents.
 
-* **Categories** -
+* **Categories** - Are commented prior to the `@interface` declaration. These tokens may result
+in individual documents or may be included based on appledoc settings. The default setting is
+to document each category individually.
 
-* **Protocols** -
+* **Protocols** - Are commented prior the the `@protocol` declaration. These tokens will result
+in individual documents.
 
-* **Methods** -
+* **Methods** - Are commented prior to the method signature.  These tokens will be included
+with the documentation for the Class, Category, or Protocol they are associated with.
 
-* **Properties** -
+* **Properties** - Are commented prior to the `@property` declaration. These tokens will be
+included with the documentation for the Class, Category, or Protocol they are associated with.
 
-* **Enums** -
+* **Enums** - Enums are a special case in appledoc.  appledoc does not work with standard C
+enums.  Instead the author of code must use `NS_ENUM` to for enumeration.  So long as NS_ENUM
+is used, these tokens will result in indivudual documents.
+
+As of appledoc 2.2 the typedefing of blocks does not get documented automatically, but more
+on that later.
 
 Keywords
 --------
+
+Keywords are the formatters that are used within comment blocks to layout the documentation
+for the commented token.  `abstract` and `discussion` support implicit formatting based
+on their location within the comment block.  Other keywords must pre prefixed with an \"@\" to
+be used.
 
 * `abstract` or `brief` - The abstract is a short description of the token being documented.
 The abstract may be implicitly defined by adding text to the first line of a document comment.
@@ -125,12 +160,15 @@ also provide a link to the other element.
 
 Your First Documentation
 ------------------------
-Before you actually run your first
+Before you actually run your first appledoc build I recommend updating your .gitignore file,
+if you are using git for SCM.  You\'ll want to add `AppleDoc` to your list of ignored folders.
+The standard run of appledoc includes this path as a location for the output files of the
+appledoc run.
 
 Sample Code
 -----------
-For your review I have posted a sample project using appledoc to github.
+For your review I have posted a [sample project](https://github.com/dpfannenstiel/RandomUserAPI/releases/tag/v1) using appledoc to github.
 
 Next Steps
 ----------
-Check back in about two weeks for part two of the appledoc use guide when I'll cover method groups, advanced scripting flags, and programming guides. 
+Check back in about two weeks for part two of the appledoc use guide when I\'ll cover method groups, advanced scripting flags, and programming guides. 
