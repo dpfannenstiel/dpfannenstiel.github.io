@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: socialpost
 title: Document Better - Part 1
 excerpt: appledoc in an invaluable resource for teams needing to produce high quality, Apple like documentation for their Mac and iOS products.  This post covers setup and basic use of appledoc.
 date: 2014-01-19 17:30:00 -0500
+hashtag: documentbetter
+twitteruser: dfansteel
 ---
 Documentation is one of those things that every developer knows they should do,
 but few of us actually find the time for. Beginning with XCode 5, however,
