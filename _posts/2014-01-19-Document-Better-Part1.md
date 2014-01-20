@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Document Better - Part 1
-date: 2014-01-18 17:30:00 -0500
+excerpt: appledoc in an invaluable resource for teams needing to produce high quality, Apple like documentation for their Mac and iOS products.  This post covers setup and basic use of appledoc.
+date: 2014-01-19 17:30:00 -0500
 ---
 Documentation is one of those things that every developer knows they should do,
 but few of us actually find the time for. Beginning with XCode 5, however,
@@ -88,37 +89,48 @@ Most common elements of a program are supported as tokens that can be documented
 Keywords
 --------
 
-* `abstract` or `brief` -
+* `abstract` or `brief` - The abstract is a short description of the token being documented.
+The abstract may be implicitly defined by adding text to the first line of a document comment.
 
-* `discussion` or `details` -
+* `discussion` or `details` - This is a longer description of the token being documented.
+Often deeper technical issues that matter to the consumer of the token will be discussed here.
+If the length of these deeper details gets too long, consider the addition of a programming guide.
+The details may be implicitly defiend by adding a blank line after the abstract of a documentation
+block.  All text that follows the abstract will be interpreted as details until another keyword
+is explicitly added.
 
-* `note` -
+* `note` - Notes are units of text that will be formatted within a rectangle so that additional
+emphasis may be prescribed and the text will be identifiable to the consumer.
 
-* `warning` -
+* `warning` - Similar to a note, but intented to provide a piece of critical information to the consumer.
 
-* `bug` -
+* `bug` - Styled similarly to a warning and a note, but intended to alert the consumer of a known bug.
 
-* `deprecated` -
+* `deprecated` - Alert the consumer that this method is deprecated and should no longer be used.
 
-* `param` -
+* `param` - Much like JavaDoc, param is used to document a parameter.  It takes the
+format: 
+> `@param <The Param Name> <Describe the Param>`.
 
-* `return`, `returns`, or `result` -
+* `return`, `returns`, or `result` - Describe the return value of the method.
 
-* `exception` -
+* `exception` - Alert the user to an excpetion that may be thrown from the method. Like the param
+it takes the format:
+> `@exception <Exception Name> <Describe the exception>`.
 
-* `see` or `sa` -
+* `see` or `sa` - Inform the consumer to see another element.  Under standard settings appledoc will
+also provide a link to the other element.
 
-* `since` or `available` -
- 
-Method Groups
--------------
+* `since` or `available` - Inform the user to the initial availability of the documented token.
 
-@"(?m:^\s<em>\Sname\s+(.</em>))" - what is this
+Your First Documentation
+------------------------
+Before you actually run your first
 
-Programming Guides
-------------------
+Sample Code
+-----------
+For your review I have posted a sample project using appledoc to github.
 
-AppleDoc comments are based on <a href="http://daringfireball.net/projects/markdown/syntax#link" title="Markdown Syntax">Markdown</a>, an easy-to-learn, easy-to-read, and easy-to-write markup language.</p>
-
-Flags
------
+Next Steps
+----------
+Check back in about two weeks for part two of the appledoc use guide when I'll cover method groups, advanced scripting flags, and programming guides. 
