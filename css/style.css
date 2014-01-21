@@ -188,19 +188,19 @@ a {
 }
 
 a:link {
-	color:#00C90D;
+	color:#01939A;
 }      /* unvisited link */
 
 a:visited {
-	color:#9BED00;
+	color:#123EAB;
 }  /* visited link */
 
 a:hover {
-	color:#FF0700;
+	color:#FF7600;
 }  /* mouse over link */
 
 a:active {
-	color:#BF3330;
+	color:#00C90D;
 }  /* selected link */
 
 /*  03 - Page Layout
@@ -291,6 +291,23 @@ code {
 	font-size: 40pt;
 	line-height: 1.2em;
 }
+
+#header-blogname a:link {
+	color:#9BED00;
+}      /* unvisited link */
+
+#header-blogname a:visited {
+	color:#9BED00;
+}  /* visited link */
+
+#header-blogname a:hover {
+	color:white;
+}  /* mouse over link */
+
+#header-blogname a:active {
+	color:#BF3330;
+}  /* selected link */
+
 
 #header-blogdescription {
 	font-family: Voltaire;
