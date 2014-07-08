@@ -1,5 +1,7 @@
 highlighter: pygments
 
+markdown: kramdown
+
 url: http://dpfannenstiel.github.io
 
 permalink: /blog/:year/:title
