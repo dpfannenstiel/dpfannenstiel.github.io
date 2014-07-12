@@ -332,3 +332,9 @@ code {
 	text-align: left;
 	color: red;
 }
+
+img.fullscreenshot {
+	width: inherit;
+	height: auto;
+    display: block;
+}

@@ -8,7 +8,7 @@ This blog is hosted with [Jekyll](http://jekyllrb.com).  Excellent quick start g
 License
 =======
 
-The contents of the following directories and their content are Copyright Dustin Pfannenstiel. Their contents may not be reused without permission:
+The contents of the following directories are Copyright Dustin Pfannenstiel. Their contents may not be reused without permission:
 
 * _posts/
 
