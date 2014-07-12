@@ -2,7 +2,7 @@ highlighter: pygments
 
 markdown: kramdown
 
-url: http://dpfannenstiel.github.io
+url: http://nth-estate.com
 
 permalink: /blog/:year/:title
 
