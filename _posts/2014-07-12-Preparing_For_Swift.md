@@ -2,7 +2,7 @@
 layout: socialpost
 title: Preparing For Swift <!-- The title of the post -->
 excerpt: Yosemite and Swift set up has caused me a spot of trouble getting.  Here are a solutions of a couple of minor problems.<!-- An excerpt for the post -->
-date: 2014-07-13 17:30:00 -0400 <!-- YYYY-MM-DD hh:mm:ss TZD , -0500 for Daylight savings, -0400 for Standard -->
+date: 2014-07-12 17:30:00 -0400 <!-- YYYY-MM-DD hh:mm:ss TZD , -0500 for Daylight savings, -0400 for Standard -->
 hashtag: preparedforswift <!-- Hashtag -->
 twitteruser: dfansteel <!-- Twitter handle -->
 ---
