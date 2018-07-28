@@ -14,7 +14,7 @@ Using Markdown code block
 }
 ```
 
-Using Pygments
+Using Rogue
 {% highlight obj-c %}
 -(void)success {
 	return YES;
