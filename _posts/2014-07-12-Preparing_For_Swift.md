@@ -1,5 +1,5 @@
 ---
-layout: socialpost
+layout: post
 title: Preparing For Swift
 excerpt: Yosemite and Swift set up has caused me a spot of trouble getting.  Here are a solutions of a couple of minor problems.
 date: 2014-07-12 17:30:00 -0400
