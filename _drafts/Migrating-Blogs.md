@@ -1,5 +1,5 @@
 ---
-layout: socialpost
+layout: post
 title: Migrating Blogs
 excerpt: All in all, Jekyll made for a pretty simple migration.
 date: 2018-7-28 06:30:00 -0600
