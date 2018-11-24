@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to My Grimorum"
+date:   2018-11-22 13:00:00 -0600
+categories: soapbox culture
+excerpt: A brief note of welcome.
+---
 Now that Amazon Prime is available on Apple TV I've finally signed up for it.  I'm really looking forward to seeing <em>The Man in the High Castle</em>.  But that wasn't enough of a reason for me to go through the trouble of watching online or buying another device to hook up to my tv and stream.  I have two remotes: my TV remote and my Apple TV remote.  The TV remote is needed to turn on the TV.  The Apple TV remote does everything else including sound.  Sometimes I go to people's house and they have five remotes and it takes fifteen minutes for me to turn on Netflix with sound (<em>cough </em>Dad <em>cough</em>).
 
 But the reason I am willing to pay for it is they're doing a Jack Ryan TV series starting next year.  I've been Jack Ryan fan since I was in the sixth grade.   Even though Jack Ryan on screen has been somewhat hit or miss, I'm really looking forward to it.  Ahead of that, I thought I'd express some thoughts on the film series so far.

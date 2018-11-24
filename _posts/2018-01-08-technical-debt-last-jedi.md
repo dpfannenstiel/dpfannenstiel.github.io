@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to My Grimorum"
+date:   2018-11-22 13:00:00 -0600
+categories: soapbox culture
+excerpt: A brief note of welcome.
+---
 Note: Spoilers throughout this article.
 
 <em>Star Wars: The Last Jedi</em> has been out for a few weeks now to mixed reviews.  Most people I know disliked the film.  My brother is pretty ambivalent about it, which I guess I understand.  I have less understanding for the people who outright dislike it.  Adam Savage's podcast "Still Untitled" had a wonderful <a href="https://itunes.apple.com/us/podcast/last-jedi-spoilercast-still-untitled-adam-savage-project/id586730504?i=1000397863360&amp;mt=2">review of the film</a>.  I'll try not repeat him too much, but I believe it was there that I did hear someone say, "<em>Star Wars</em> was always a children's film".  I like that.

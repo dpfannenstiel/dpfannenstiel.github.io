@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to My Grimorum"
+date:   2018-11-22 13:00:00 -0600
+categories: soapbox culture
+excerpt: A brief note of welcome.
+---
 I discovered customizable card games when I was in high school.  A family Christmas tradition was for our stockings to include something to read and a small toy.  I cannot remember what the something to read was (a paperback or magazine) that year, but the toy was a starter deck for the <em>Star Trek: Customizable Card Game</em> from Decipher.  I had never played a CCG before, never seen one, so I didn't really understand what it was.  I was, and am, a <em>Star Trek </em>fan, but it would be some time before I discovered a play group for the game at a local comic shop.
 
 <em>ST:CCG</em> has several interesting elements to it that would follow to the <em>Star Wars: Customizable Card Game</em>.  Aside from the types of cards themselves, the most critical mechanic in <em>ST:CCG</em> was the Location.  The idea was that cards existed "on table" or "at a location".  Cards that existed on table affected the entire table in accordance with their rules.  Cards that played to a location only affected that location.  This meant that characters existed at a location and conflict between characters only took place in the location in which they existed.

@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to My Grimorum"
+date:   2018-11-22 13:00:00 -0600
+categories: soapbox culture
+excerpt: A brief note of welcome.
+---
 We're about a year into the Trump Presidency.  Needless to say there's much about the situation that the United States finds itself in currently that I object to.  Writing on the eve of the release of <em>Fire and Fury</em>, the embattled Trump administration once again finds itself under a much deserved assault.  Given the past year, I wanted to share my thoughts about what Trump's impact on the 2020 race may be.
 <h3>Trump Chooses To Not Run</h3>
 By far the most likely event is that Donald Trump chooses to not run for reelection.  By all accounts he doesn't want to be President, he never wanted it, and, most importantly, he doesn't enjoy it.  Running for President is an exercise in branding, an endeavor that President Trump has shown a unique ability.  Beyond that the President has little interest in the office.

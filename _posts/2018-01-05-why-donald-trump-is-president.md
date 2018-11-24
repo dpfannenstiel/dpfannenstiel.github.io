@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to My Grimorum"
+date:   2018-11-22 13:00:00 -0600
+categories: soapbox culture
+excerpt: A brief note of welcome.
+---
 Earlier today a friend of mine asked me how we ended up here.  By which he meant, how did we end up with Donald Trump as President.  I gave him an answer in three words: Democrats don't vote.  That's difficult to hear, but it is, however unfortunately, the truth.  Let's back up a little bit.
 
 Reasonable people are able to discuss taxes and the role of government in a civil manner.  National security was effectively guaranteed by the large oceans on either coast, providing a degree of freedom in other <em>realpolitik</em> applications of international affairs.  These policies accounted for the bulwark of Republican policy since the administration of Teddy Roosevelt.  However, following the election of his cousin Franklin, the GOP only controlled Congress for 4 years cumulatively heading into the election of 1980.

@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to My Grimorum"
+date:   2018-11-22 13:00:00 -0600
+categories: soapbox culture
+excerpt: A brief note of welcome.
+---
 The Golden Globes are tonight and, while I haven't seen a lot of films this year, this does seem to be a good opportunity to share my thoughts on what films I have seen who were nominated.  Needless to say: Spoilers Abound
 <h3>Darkest Hour</h3>
 I both enjoyed watching and didn't understand why <em>Darkest Hour</em>, the story of Winston Churchill's ascension to Prime Minister of the United Kingdom and the first few weeks in the position, was made in the first place.  I can ignore the historical inaccuracies and enjoy Gary Oldman's performance with ease.  Similarly, the cinematography and set design were superb.  Throughout the film the audience gets dragged through the scenery with such vigor I think there may still be a bit of muck from the streets in my shoes.

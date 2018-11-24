@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to My Grimorum"
+date:   2018-11-22 13:00:00 -0600
+categories: soapbox culture
+excerpt: A brief note of welcome.
+---
 Here's my idea for a movie.  Anyone willing to make this movie can have the idea for free.  Just get it done.  It's called <em>The Three Johns</em>.
 
 It's about a guy named John who owns a hardware store in small town USA.  He's good guy, the sort of master craftsman who you can bring in a stripped screw or damaged hinge and he can pick out the exact replacement from the massive wall of drawers and nooks behind him instantly on seeing your part.  He's a good family man, active in the church, the whole nine yards.

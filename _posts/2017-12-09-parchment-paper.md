@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to My Grimorum"
+date:   2018-11-22 13:00:00 -0600
+categories: soapbox culture
+excerpt: A brief note of welcome.
+---
 Parchment paper is my new boo in the kitchen.  I've been using it since I moved into my apartment in Austin and I really wonder where it's been all my life.
 
 There's no two ways about it, I'm kind of lazy.  Not in a "toast is difficult" sort of way, but in a cost/benefit sort of way.  I guess it would be better to say I'm "temporally economical".  At one point spent an evening making Maple Pork Chops (or some such insanity) for dinner.  It took three hours, start to finish, and used every dish I owned.  Every dish. I don't have a problem spending money, investing time, or fulfilling some other cost so long as an appropriate benefit is realized.

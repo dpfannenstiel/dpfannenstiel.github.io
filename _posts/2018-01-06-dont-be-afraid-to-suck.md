@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to My Grimorum"
+date:   2018-11-22 13:00:00 -0600
+categories: soapbox culture
+excerpt: A brief note of welcome.
+---
 Now is a phenomenal time to be a maker.  It doesn't even matter what it is you're making.  Coming from a background as a software engineers I know people who have spent years in development on indy games or apps looking to make their mark on the world.  Snapchat filters... I know a guy who built that app a year before Snap.
 
 In the meat space, hacker spaces like TechShop (more on that in another post) have allowed people to start businesses they wouldn't have had any other way to get going.  Square... the mobile payment platform, that started because the founder went into a hacker space and prototyped the first unit to sell to investors.  Literally all it takes is a little elbow grease and some belief in yourself.

@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to My Grimorum"
+date:   2018-11-22 13:00:00 -0600
+categories: soapbox culture
+excerpt: A brief note of welcome.
+---
 I'm in the market for a new coffee machine.  Let me say at the outset: I'm not getting a Keurig. Keurig coffee tastes terrible and I'm just not doing it.
 
 I purchased my current coffee maker several months after moving into my apartment, having finally grown tired of doing pour over coffee. All I was after was a small pot, it's just me here I don't need much.  I also really wanted to get one of those insulated pots.  That was my "nice to have" feature.  And I didn't want to spend a lot of money.

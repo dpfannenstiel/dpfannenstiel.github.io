@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to My Grimorum"
+date:   2018-11-22 13:00:00 -0600
+categories: soapbox culture
+excerpt: A brief note of welcome.
+---
 I've volunteered to run a Promethean game for my RPG group as our regular  storyteller got a little worn out after running game for a year.  That's rough to do.  And the Storyteller System games is a tough rule set to keep in your head.  I've run games before and so I was happy to do it.  Actually, I'm certain that everyone else in the group has run, but I volunteered.
 
 Promethean is a fun game and very different within the Chronicles of Darkness series.  It's the only one that can have a happy ending.  The player characters are artificial life forms in the style of Frankenstein's monster.  They're created from dead, or never living, matter and, through "the divine fire", made life.  From that point they're on a quest to become mortal.
