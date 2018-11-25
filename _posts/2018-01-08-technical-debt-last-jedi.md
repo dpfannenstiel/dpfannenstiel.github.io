@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to My Grimorum"
-date:   2018-11-22 13:00:00 -0600
-categories: soapbox culture
-excerpt: A brief note of welcome.
+title:  "Technical Debt and the Last Jedi"
+date:   2018-01-08 13:00:00 -0600
+categories: soapbox film
+excerpt: A poorly written review of The Last Jedi. Hashtag salesmanship.
 ---
 Note: Spoilers throughout this article.
 

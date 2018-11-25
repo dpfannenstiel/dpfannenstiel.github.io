@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to My Grimorum"
-date:   2018-11-22 13:00:00 -0600
-categories: soapbox culture
-excerpt: A brief note of welcome.
+title:  "The 75th Annual Golden Globes"
+date:   2018-01-06 13:00:00 -0600
+categories: culture film
+excerpt: The Golden Globes are tonight, let's try to predict the future. Because that goes well.
 ---
 The Golden Globes are tonight and, while I haven't seen a lot of films this year, this does seem to be a good opportunity to share my thoughts on what films I have seen who were nominated.  Needless to say: Spoilers Abound
 <h3>Darkest Hour</h3>

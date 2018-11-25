@@ -2,7 +2,7 @@
 layout: post
 title:  "Polentz Ramble"
 date:   2018-01-03 13:00:00 -0600
-categories: fiction rpg promethean
+categories: fiction rpg
 excerpt: I've volunteered to run a Promethean game for my RPG group.
 ---
 I've volunteered to run a Promethean game for my RPG group as our regular  storyteller got a little worn out after running game for a year.  That's rough to do.  And the Storyteller System games is a tough rule set to keep in your head.  I've run games before and so I was happy to do it.  Actually, I'm certain that everyone else in the group has run, but I volunteered.

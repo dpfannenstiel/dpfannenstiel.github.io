@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: New Year, New Blog
-excerpt: Happy New Year!  I\'m beginning my year of blogging by setting up a blog using Jekyll.
+excerpt: Happy New Year!  I'm beginning my year of blogging by setting up a blog using Jekyll.
 date: 2014-01-05 17:30:00 -0500
 ---
 Happy New Year!

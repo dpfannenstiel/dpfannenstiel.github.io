@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to My Grimorum"
-date:   2018-11-22 13:00:00 -0600
-categories: soapbox culture
-excerpt: A brief note of welcome.
+title:  "A Mad Mad Mad World"
+date:   2018-01-04 13:00:00 -0600
+categories: politics
+excerpt: One year into the Trump Presidency, let's try to predict the future. Because that goes well.
 ---
 We're about a year into the Trump Presidency.  Needless to say there's much about the situation that the United States finds itself in currently that I object to.  Writing on the eve of the release of <em>Fire and Fury</em>, the embattled Trump administration once again finds itself under a much deserved assault.  Given the past year, I wanted to share my thoughts about what Trump's impact on the 2020 race may be.
 <h3>Trump Chooses To Not Run</h3>

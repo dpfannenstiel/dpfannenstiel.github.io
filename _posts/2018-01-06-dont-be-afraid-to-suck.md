@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to My Grimorum"
-date:   2018-11-22 13:00:00 -0600
+title:  "Don't Be Afraid to Suck"
+date:   2018-01-06 13:00:00 -0600
 categories: soapbox culture
-excerpt: A brief note of welcome.
+excerpt: A love letter to some of the makers out there.
 ---
 Now is a phenomenal time to be a maker.  It doesn't even matter what it is you're making.  Coming from a background as a software engineers I know people who have spent years in development on indy games or apps looking to make their mark on the world.  Snapchat filters... I know a guy who built that app a year before Snap.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to My Grimorum"
-date:   2018-11-22 13:00:00 -0600
-categories: soapbox culture
-excerpt: A brief note of welcome.
+title:  "Why Donald Trump is President"
+date:   2018-01-05 13:00:00 -0600
+categories: politics
+excerpt: A rundown of the underlying cause of how Donald Trump became President.
 ---
 Earlier today a friend of mine asked me how we ended up here.  By which he meant, how did we end up with Donald Trump as President.  I gave him an answer in three words: Democrats don't vote.  That's difficult to hear, but it is, however unfortunately, the truth.  Let's back up a little bit.
 
