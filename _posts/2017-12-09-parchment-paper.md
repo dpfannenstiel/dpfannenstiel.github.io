@@ -9,7 +9,8 @@ Parchment paper is my new boo in the kitchen.  I've been using it since I moved
 
 There's no two ways about it, I'm kind of lazy.  Not in a "toast is difficult" sort of way, but in a cost/benefit sort of way.  I guess it would be better to say I'm "temporally economical".  At one point spent an evening making Maple Pork Chops (or some such insanity) for dinner.  It took three hours, start to finish, and used every dish I owned.  Every dish. I don't have a problem spending money, investing time, or fulfilling some other cost so long as an appropriate benefit is realized.
 
-[caption id="attachment_7" align="alignnone" width="225"]<img class="size-medium wp-image-7" src="http://dustin.pfannenstiel.us/wp-content/uploads/2017/12/IMG_1090-2-225x300.jpg" alt="A collection of dishes, flat ware, knives, pans, cutting boards." width="225" height="300" /> Every dish I own.[/caption]
+![A collection of dishes, flat ware, knives, pans, cutting boards.](/assets/posts/parchment-paper/IMG_1090-2-768x1024.jpg "Every dish I own.")
+*Every dish I own.*
 
 Which brings us to the Parchment Paper.  I will confess to being a little uncertain about the difference between parchment paper and bakery release paper.  I know there's a cooking technique where you wrap food in paper to cook it and, based on my limited understanding, is something different.  What Reynolds and H-E-B sell as "parchment paper" is more likely bakery paper.  It's a thin paper that, from a few feet, visually looks like wax paper, but is very different.  Whereas wax paper is paper covered in wax, making it resistant to liquid, bakery paper is impregnated with silicone, making it nonstick.
 
@@ -23,6 +24,7 @@ Baked chicken has by far been the star for this process.  Chicken is one of tho
 </ol>
 I haven't found anything yet that I don't prefer cooking on parchment paper to aluminum foil or just on the baking sheet.  Just today I reheated pizza in the oven and put it on parchment paper to keep the cheese from melting to things.  It turned out beautifully.
 
-[caption id="attachment_6" align="alignnone" width="300"]<img class="size-medium wp-image-6" src="http://dustin.pfannenstiel.us/wp-content/uploads/2017/12/IMG_1088-300x225.jpg" alt="Maple pork chops with bacon sweet potato hash." width="300" height="225" /> Maple pork chops with bacon sweet potato hash.[/caption]
+![Maple pork chops with bacon sweet potato hash.](/assets/posts/parchment-paper/IMG_1088-768x576.jpg "Maple pork chops with bacon sweet potato hash.")
+*Maple pork chops with bacon sweet potato hash.*
 
 Post Script:  Not worth it.  The pork chops were too thick to cook or eat reasonably.
