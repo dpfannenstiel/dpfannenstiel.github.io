@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to My Grimorum"
-date:   2018-11-22 13:00:00 -0600
-categories: soapbox culture
-excerpt: A brief note of welcome.
+title:  "A Few Notes On the Jack Ryan Film Series"
+date:   2017-12-12 13:00:00 -0600
+categories: soapbox film books culture
+excerpt: The Jack Ryan book series is one of my favorites.  With the new Amazon series coming soon, I run down it's difficult history in film.
 ---
 Now that Amazon Prime is available on Apple TV I've finally signed up for it.  I'm really looking forward to seeing <em>The Man in the High Castle</em>.  But that wasn't enough of a reason for me to go through the trouble of watching online or buying another device to hook up to my tv and stream.  I have two remotes: my TV remote and my Apple TV remote.  The TV remote is needed to turn on the TV.  The Apple TV remote does everything else including sound.  Sometimes I go to people's house and they have five remotes and it takes fifteen minutes for me to turn on Netflix with sound (<em>cough </em>Dad <em>cough</em>).
 

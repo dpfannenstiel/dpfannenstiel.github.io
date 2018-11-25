@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to My Grimorum"
-date:   2018-11-22 13:00:00 -0600
-categories: soapbox culture
-excerpt: A brief note of welcome.
+title:  "Parchment Paper"
+date:   2017-12-09 13:00:00 -0600
+categories: soapbox cooking
+excerpt: I have a new boo in the kitchen.  I use it almost every day and it's chaning the way I cook.
 ---
 Parchment paper is my new boo in the kitchen.  I've been using it since I moved into my apartment in Austin and I really wonder where it's been all my life.
 

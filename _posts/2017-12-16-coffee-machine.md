@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to My Grimorum"
-date:   2018-11-22 13:00:00 -0600
-categories: soapbox culture
-excerpt: A brief note of welcome.
+title:  "A New Coffee maker"
+date:   2017-12-16 13:00:00 -0600
+categories: soapbox cooking
+excerpt: Looking for a new coffee pot should be easier than I make it.
 ---
 I'm in the market for a new coffee machine.  Let me say at the outset: I'm not getting a Keurig. Keurig coffee tastes terrible and I'm just not doing it.
 

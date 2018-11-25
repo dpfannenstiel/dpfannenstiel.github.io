@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to My Grimorum"
-date:   2018-11-22 13:00:00 -0600
-categories: soapbox culture
-excerpt: A brief note of welcome.
+title:  "Star Wars: CCG Part 1"
+date:   2017-12-10 13:00:00 -0600
+categories: games swccg
+excerpt: "The Star Wars: CCG was just one of the best things ever and I need to tell you why."
 ---
 I discovered customizable card games when I was in high school.  A family Christmas tradition was for our stockings to include something to read and a small toy.  I cannot remember what the something to read was (a paperback or magazine) that year, but the toy was a starter deck for the <em>Star Trek: Customizable Card Game</em> from Decipher.  I had never played a CCG before, never seen one, so I didn't really understand what it was.  I was, and am, a <em>Star Trek </em>fan, but it would be some time before I discovered a play group for the game at a local comic shop.
 

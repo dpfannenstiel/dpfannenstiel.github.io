@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to My Grimorum"
-date:   2018-11-22 13:00:00 -0600
-categories: soapbox culture
-excerpt: A brief note of welcome.
+title:  "The Three Johns"
+date:   2018-01-02 13:00:00 -0600
+categories: fiction film
+excerpt: I had a trite idea for a film.
 ---
 Here's my idea for a movie.  Anyone willing to make this movie can have the idea for free.  Just get it done.  It's called <em>The Three Johns</em>.
 
