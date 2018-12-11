@@ -42,7 +42,7 @@ layout: default
           {% if page == paginator.page %}
             <strong class="pagination">{{ page }}</strong>
           {% elsif page == 1 %}
-            <a href="{{ paginator.previous_page_path | relative_url }}">
+            <a href="{{ site.url | relative_url }}">
               {{ page }}
             </a>
           {% else %}
