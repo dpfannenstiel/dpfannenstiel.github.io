@@ -189,8 +189,12 @@
   @include relative-font-size(1.5);
 }
 
-.pagination {
-    margin-bottom: $spacing-unit;
+strong.pagination {
+  font-weight: 700;
+}
+
+.rss-subscribe {
+    margin-top: $spacing-unit / 2;
 }
 
 /**
