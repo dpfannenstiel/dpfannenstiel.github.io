@@ -27,7 +27,7 @@ POST_NAME=$(echo "$POST_TITLE" | tr '[:upper:]' '[:lower:]')
 POST_NAME=${POST_NAME// /-}
 POST_DATE=$(date +"%Y-%m-%d")
 POST_TIME=$(date +"%H:%M:00 %z")
-POST_PATH=${POST_DIR}/${POST_DATE}-${POST_NAME}.markdown
+POST_PATH=${POST_DIR}/${POST_DATE}-${POST_NAME}.md
 
 if [ -f "$POST_PATH" ]; then
 	echo "File exists at $POST_PATH"
