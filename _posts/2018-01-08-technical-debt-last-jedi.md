@@ -19,4 +19,40 @@ Johnson's writing powered the saga forward by ignoring as much of the J.J. Abram
 
 The execution of Snoke by Kylo Ren set up the concluding film nicely while paying off two more plot points.  The first being the identity of Snoke.  Once again, not everything needs to be something else.  He didn't need to be a previous Sith Lord.  All he had to be was evil: Mission Accomplished!  Finally, where are the Knights of Ren?  What are the Knights of Ren?  They're just gone now.  No need to even bring them up.
 
-Post Script: I was so very, very wrong in my last post.  Really missed the mark.
+{% capture postscript %}
+I was so very, very wrong in my last post.  Really missed the mark.
+{% endcapture %}
+
+{% include alert_box.html content=postscript title="Post Script" type="post_script" %}
+
+{% capture info_message %}
+**INFO:** This is info message. `This is code.`  [This is link](http://www.cnn.com). *Italics.*
+{% endcapture %}
+
+{% capture warning_message %}
+**WARNING:** This is warning message. `This is code.`  [This is link](http://www.cnn.com). *Italics.*
+{% endcapture %}
+
+{% capture note_message %}
+**NOTE:** This is note message. `This is code.`  [This is link](http://www.cnn.com). *Italics.*
+{% endcapture %}
+
+{% capture success_message %}
+**SUCCESS:** This is success message. `This is code.`  [This is link](http://www.cnn.com). *Italics.*
+{% endcapture %}
+
+{% include alert_box.html content=info_message title="Post Script" type="info" %}
+
+{% include alert_box.html content=info_message type="info" %}
+
+{% include alert_box.html content=warning_message title="Post Script" type="warning" %}
+
+{% include alert_box.html content=warning_message type="warning" %}
+
+{% include alert_box.html content=note_message title="Post Script" type="note" %}
+
+{% include alert_box.html content=note_message type="note" %}
+
+{% include alert_box.html content=success_message title="Post Script" type="success" %}
+
+{% include alert_box.html content=success_message type="success" %}

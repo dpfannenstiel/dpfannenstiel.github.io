@@ -2,4 +2,4 @@
 
 # use -D for drafts
 
-bundle exec jekyll s $@
+bundle exec jekyll s -I $@

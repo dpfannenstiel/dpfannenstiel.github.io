@@ -1,0 +1,16 @@
+<!--
+	Parameters:
+		content - the text
+		type - optional type information
+		title - optional title information
+-->
+<div class="{{ include.type }} alert">
+	{% if include.title %}
+		<div class="box-header">
+			{{ include.title }}
+		</div>
+	{% endif %}
+	<div class="alert_content">
+		{{ include.content }}
+	</div>
+</div>

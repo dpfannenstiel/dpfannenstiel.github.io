@@ -1,0 +1,184 @@
+// colors
+$color-black: #2B2B2B;
+$color-white: #fcfcfc;
+$color-blue: lighten(#1D408C, 10);
+$color-orange: #d16b19;
+$color-green: #1BA914;
+$color-red: #CF191D;
+
+$color-code: darken($color-white, 10);
+
+$color-paginator: darken($color-white, 30);
+$color-paginator-darker: darken($color-paginator, 10);
+$color-paginator-darkest: darken($color-paginator, 40);
+
+$color-orange-dark: darken($color-orange, 15);
+$color-blue-dark: darken($color-blue, 15);
+$color-green-dark: darken($color-green, 15);
+$color-red-dark: darken($color-red, 15);
+
+$color-info: lighten($color-blue, 45);
+$color-warning: lighten($color-orange, 45);
+$color-success: lighten($color-green, 45);
+$color-note: lighten($color-red, 45);
+
+$color-info-dark: darken($color-info, 10);
+$color-warning-dark: darken($color-warning, 15);
+$color-success-dark: darken($color-success, 10);
+$color-note-dark: darken($color-note, 10);
+
+
+/*************************************************************************
+                             WHITE-COLOR
+/*************************************************************************/
+//---------------------------FONT
+.box-header {
+  color: $color-white;
+}
+
+/*************************************************************************
+                             ORANGE-COLOR
+/*************************************************************************/
+
+//---------------------------BACKGROUND
+.post_script > .box-header {
+  background-color: $color-orange;
+}
+
+//---------------------------BORDER
+.post_script {
+  border-color: $color-orange;
+}
+
+/*************************************************************************
+                             ORANGE-DARK-COLOR
+/*************************************************************************/
+
+//---------------------------FONT
+
+.post_script,
+.warning {
+  color: $color-orange-dark;
+}
+
+/*************************************************************************
+                             WARNING-COLOR
+/*************************************************************************/
+
+
+//---------------------------BACKGROUND
+.post_script,
+.warning {
+  background-color: $color-warning;
+}
+
+/*************************************************************************
+                             WARNING-DARK-COLOR
+/*************************************************************************/
+
+
+//---------------------------BORDER
+.warning {
+  border-color: $color-warning-dark;
+}
+
+//---------------------------BACKGROUND
+.post_script code,
+.warning code {
+  background-color: $color-warning-dark;
+  border-color: $color-orange-dark;
+}
+
+/*************************************************************************
+                             INFO-COLOR
+/*************************************************************************/
+
+
+//---------------------------BACKGROUND
+
+.info {
+  background-color: $color-info;
+}
+
+/*************************************************************************
+                             INFO-DARK-COLOR
+/*************************************************************************/
+
+
+//---------------------------BORDER
+
+.info {
+  border-color: $color-info-dark;
+}
+
+//---------------------------BACKGROUND
+
+.info code{
+  background-color: $color-info-dark;
+}
+
+/*************************************************************************
+                             NOTE-COLOR
+/*************************************************************************/
+
+//---------------------------BACKGROUND
+.note {
+  background-color: $color-note;
+}
+
+/*************************************************************************
+                             NOTE-DARK-COLOR
+/*************************************************************************/
+
+//---------------------------BORDER
+.note {
+  border-color: $color-note-dark;
+}
+
+//---------------------------BACKGROUND
+.note code{
+  background-color: $color-note-dark;
+}
+
+/*************************************************************************
+                             RED-DARK-COLOR
+/*************************************************************************/
+
+//---------------------------FONT
+.note {
+  color: $color-red-dark;
+}
+
+
+/*************************************************************************
+                             SUCCESS-COLOR
+/*************************************************************************/
+
+//---------------------------BACKGROUND
+.success {
+  background-color: $color-success;
+}
+
+/*************************************************************************
+                             SUCCESS-DARK-COLOR
+/*************************************************************************/
+
+//---------------------------BORDER
+.success {
+  border-color: $color-success-dark;
+}
+
+//---------------------------BACKGROUND
+.success code {
+  background-color: $color-success-dark;
+}
+
+/*************************************************************************
+                             GREEN-DARK-COLOR
+/*************************************************************************/
+
+//---------------------------FONT
+.success {
+  color: $color-green-dark;
+}
+
