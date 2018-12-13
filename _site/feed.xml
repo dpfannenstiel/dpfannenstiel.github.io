@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-12T21:10:25-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DMP in ATX</title><subtitle>The incredibly nerdy blog of Dustin Pfannenstiel, social media ex-pat.</subtitle><entry><title type="html">Technical Debt and the Last Jedi</title><link href="http://localhost:4000/2018/01/08/technical-debt-last-jedi.html" rel="alternate" type="text/html" title="Technical Debt and the Last Jedi" /><published>2018-01-08T13:00:00-06:00</published><updated>2018-01-08T13:00:00-06:00</updated><id>http://localhost:4000/2018/01/08/technical-debt-last-jedi</id><content type="html" xml:base="http://localhost:4000/2018/01/08/technical-debt-last-jedi.html">Note: Spoilers throughout this article.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-13T17:43:06-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DMP in ATX</title><subtitle>The incredibly nerdy blog of Dustin Pfannenstiel, social media ex-pat.</subtitle><entry><title type="html">Technical Debt and the Last Jedi</title><link href="http://localhost:4000/2018/01/08/technical-debt-last-jedi.html" rel="alternate" type="text/html" title="Technical Debt and the Last Jedi" /><published>2018-01-08T13:00:00-06:00</published><updated>2018-01-08T13:00:00-06:00</updated><id>http://localhost:4000/2018/01/08/technical-debt-last-jedi</id><content type="html" xml:base="http://localhost:4000/2018/01/08/technical-debt-last-jedi.html">Note: Spoilers throughout this article.
 
 &lt;em&gt;Star Wars: The Last Jedi&lt;/em&gt; has been out for a few weeks now to mixed reviews.  Most people I know disliked the film.  My brother is pretty ambivalent about it, which I guess I understand.  I have less understanding for the people who outright dislike it.  Adam Savage's podcast &quot;Still Untitled&quot; had a wonderful &lt;a href=&quot;https://itunes.apple.com/us/podcast/last-jedi-spoilercast-still-untitled-adam-savage-project/id586730504?i=1000397863360&amp;amp;mt=2&quot;&gt;review of the film&lt;/a&gt;.  I'll try not repeat him too much, but I believe it was there that I did hear someone say, &quot;&lt;em&gt;Star Wars&lt;/em&gt; was always a children's film&quot;.  I like that.
 
@@ -16,39 +16,7 @@ The execution of Snoke by Kylo Ren set up the concluding film nicely while payin
 I was so very, very wrong in my last post.  Really missed the mark.
 {% endcapture %}
 
-{% include alert_box.html content=postscript title=&quot;Post Script&quot; type=&quot;post_script&quot; %}
-
-{% capture info_message %}
-**INFO:** This is info message. `This is code.`  [This is link](http://www.cnn.com). *Italics.*
-{% endcapture %}
-
-{% capture warning_message %}
-**WARNING:** This is warning message. `This is code.`  [This is link](http://www.cnn.com). *Italics.*
-{% endcapture %}
-
-{% capture note_message %}
-**NOTE:** This is note message. `This is code.`  [This is link](http://www.cnn.com). *Italics.*
-{% endcapture %}
-
-{% capture success_message %}
-**SUCCESS:** This is success message. `This is code.`  [This is link](http://www.cnn.com). *Italics.*
-{% endcapture %}
-
-{% include alert_box.html content=info_message title=&quot;Post Script&quot; type=&quot;info&quot; %}
-
-{% include alert_box.html content=info_message type=&quot;info&quot; %}
-
-{% include alert_box.html content=warning_message title=&quot;Post Script&quot; type=&quot;warning&quot; %}
-
-{% include alert_box.html content=warning_message type=&quot;warning&quot; %}
-
-{% include alert_box.html content=note_message title=&quot;Post Script&quot; type=&quot;note&quot; %}
-
-{% include alert_box.html content=note_message type=&quot;note&quot; %}
-
-{% include alert_box.html content=success_message title=&quot;Post Script&quot; type=&quot;success&quot; %}
-
-{% include alert_box.html content=success_message type=&quot;success&quot; %}</content><author><name></name></author><summary type="html">A poorly written review of The Last Jedi. Hashtag salesmanship.</summary></entry><entry><title type="html">Don’t Be Afraid to Suck</title><link href="http://localhost:4000/2018/01/06/dont-be-afraid-to-suck.html" rel="alternate" type="text/html" title="Don't Be Afraid to Suck" /><published>2018-01-06T13:00:00-06:00</published><updated>2018-01-06T13:00:00-06:00</updated><id>http://localhost:4000/2018/01/06/dont-be-afraid-to-suck</id><content type="html" xml:base="http://localhost:4000/2018/01/06/dont-be-afraid-to-suck.html">Now is a phenomenal time to be a maker.  It doesn't even matter what it is you're making.  Coming from a background as a software engineers I know people who have spent years in development on indy games or apps looking to make their mark on the world.  Snapchat filters... I know a guy who built that app a year before Snap.
+{% include alert_box.html content=postscript title=&quot;Post Script&quot; type=&quot;post_script&quot; %}</content><author><name></name></author><summary type="html">A poorly written review of The Last Jedi. Hashtag salesmanship.</summary></entry><entry><title type="html">Don’t Be Afraid to Suck</title><link href="http://localhost:4000/2018/01/06/dont-be-afraid-to-suck.html" rel="alternate" type="text/html" title="Don't Be Afraid to Suck" /><published>2018-01-06T13:00:00-06:00</published><updated>2018-01-06T13:00:00-06:00</updated><id>http://localhost:4000/2018/01/06/dont-be-afraid-to-suck</id><content type="html" xml:base="http://localhost:4000/2018/01/06/dont-be-afraid-to-suck.html">Now is a phenomenal time to be a maker.  It doesn't even matter what it is you're making.  Coming from a background as a software engineers I know people who have spent years in development on indy games or apps looking to make their mark on the world.  Snapchat filters... I know a guy who built that app a year before Snap.
 
 In the meat space, hacker spaces like TechShop (more on that in another post) have allowed people to start businesses they wouldn't have had any other way to get going.  Square... the mobile payment platform, that started because the founder went into a hacker space and prototyped the first unit to sell to investors.  Literally all it takes is a little elbow grease and some belief in yourself.
 
@@ -76,7 +44,11 @@ You don't have to be Adam Savage to be a maker.  All you have to do is sit down
 
 One last thing, in addition to the comedians linked above check out &lt;a href=&quot;https://twitter.com/johncheese&quot;&gt;John Cheese&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/kawillert&quot;&gt;Katie Willert&lt;/a&gt;, and &lt;a href=&quot;https://www.patreon.com/posts/why-i-left-by-15727831&quot;&gt;Katy Stoll&lt;/a&gt;.  They're also wonderful Cracked alumni who are worth following and I look forward to seeing what comes next.  I don't know any of these guys, but, through their work, I've had breakfast with them every day for years.
 
-Post Script: All of those videos have NSFW language.  This probably should have been a &quot;Pre Script&quot; ... that can't be right, that's not a thing.</content><author><name></name></author><summary type="html">A love letter to some of the makers out there.</summary></entry><entry><title type="html">The 75th Annual Golden Globes</title><link href="http://localhost:4000/2018/01/06/75th-annual-golden-globes.html" rel="alternate" type="text/html" title="The 75th Annual Golden Globes" /><published>2018-01-06T13:00:00-06:00</published><updated>2018-01-06T13:00:00-06:00</updated><id>http://localhost:4000/2018/01/06/75th-annual-golden-globes</id><content type="html" xml:base="http://localhost:4000/2018/01/06/75th-annual-golden-globes.html">The Golden Globes are tonight and, while I haven't seen a lot of films this year, this does seem to be a good opportunity to share my thoughts on what films I have seen who were nominated.  Needless to say: Spoilers Abound
+{% capture postscript %}
+All of those videos have NSFW language.  This probably should have been a &quot;Pre Script&quot; ... that can't be right, that's not a thing.
+{% endcapture %}
+
+{% include alert_box.html content=postscript title=&quot;Post Script&quot; type=&quot;post_script&quot; %}</content><author><name></name></author><summary type="html">A love letter to some of the makers out there.</summary></entry><entry><title type="html">The 75th Annual Golden Globes</title><link href="http://localhost:4000/2018/01/06/75th-annual-golden-globes.html" rel="alternate" type="text/html" title="The 75th Annual Golden Globes" /><published>2018-01-06T13:00:00-06:00</published><updated>2018-01-06T13:00:00-06:00</updated><id>http://localhost:4000/2018/01/06/75th-annual-golden-globes</id><content type="html" xml:base="http://localhost:4000/2018/01/06/75th-annual-golden-globes.html">The Golden Globes are tonight and, while I haven't seen a lot of films this year, this does seem to be a good opportunity to share my thoughts on what films I have seen who were nominated.  Needless to say: Spoilers Abound
 &lt;h3&gt;Darkest Hour&lt;/h3&gt;
 I both enjoyed watching and didn't understand why &lt;em&gt;Darkest Hour&lt;/em&gt;, the story of Winston Churchill's ascension to Prime Minister of the United Kingdom and the first few weeks in the position, was made in the first place.  I can ignore the historical inaccuracies and enjoy Gary Oldman's performance with ease.  Similarly, the cinematography and set design were superb.  Throughout the film the audience gets dragged through the scenery with such vigor I think there may still be a bit of muck from the streets in my shoes.
 
@@ -153,7 +125,11 @@ A smart person once said that &quot;decisions are made by those who show up&quot
 
 Also, don't vote for Jill Stein.  I'm looking at you Michigan.
 
-Post Script: How weird is it that Bill Clinton, George W. Bush, and Donald Trump were all born in 1946?</content><author><name></name></author><summary type="html">A rundown of the underlying cause of how Donald Trump became President.</summary></entry><entry><title type="html">A Mad Mad Mad World</title><link href="http://localhost:4000/2018/01/04/a-mad-mad-mad-world.html" rel="alternate" type="text/html" title="A Mad Mad Mad World" /><published>2018-01-04T13:00:00-06:00</published><updated>2018-01-04T13:00:00-06:00</updated><id>http://localhost:4000/2018/01/04/a-mad-mad-mad-world</id><content type="html" xml:base="http://localhost:4000/2018/01/04/a-mad-mad-mad-world.html">We're about a year into the Trump Presidency.  Needless to say there's much about the situation that the United States finds itself in currently that I object to.  Writing on the eve of the release of &lt;em&gt;Fire and Fury&lt;/em&gt;, the embattled Trump administration once again finds itself under a much deserved assault.  Given the past year, I wanted to share my thoughts about what Trump's impact on the 2020 race may be.
+{% capture postscript %}
+How weird is it that Bill Clinton, George W. Bush, and Donald Trump were all born in 1946?
+{% endcapture %}
+
+{% include alert_box.html content=postscript title=&quot;Post Script&quot; type=&quot;post_script&quot; %}</content><author><name></name></author><summary type="html">A rundown of the underlying cause of how Donald Trump became President.</summary></entry><entry><title type="html">A Mad Mad Mad World</title><link href="http://localhost:4000/2018/01/04/a-mad-mad-mad-world.html" rel="alternate" type="text/html" title="A Mad Mad Mad World" /><published>2018-01-04T13:00:00-06:00</published><updated>2018-01-04T13:00:00-06:00</updated><id>http://localhost:4000/2018/01/04/a-mad-mad-mad-world</id><content type="html" xml:base="http://localhost:4000/2018/01/04/a-mad-mad-mad-world.html">We're about a year into the Trump Presidency.  Needless to say there's much about the situation that the United States finds itself in currently that I object to.  Writing on the eve of the release of &lt;em&gt;Fire and Fury&lt;/em&gt;, the embattled Trump administration once again finds itself under a much deserved assault.  Given the past year, I wanted to share my thoughts about what Trump's impact on the 2020 race may be.
 &lt;h3&gt;Trump Chooses To Not Run&lt;/h3&gt;
 By far the most likely event is that Donald Trump chooses to not run for reelection.  By all accounts he doesn't want to be President, he never wanted it, and, most importantly, he doesn't enjoy it.  Running for President is an exercise in branding, an endeavor that President Trump has shown a unique ability.  Beyond that the President has little interest in the office.
 
@@ -173,7 +149,11 @@ Should any candidate fail to receive the required 270 electoral college votes, t
 &lt;h3&gt;Trump Is Unavailable to Run&lt;/h3&gt;
 Finally, there is the possibility, however unlikely that Donald Trump is unavailable to run due to changes in his health or legal status.  In this case a full Republican Primary is run.  Hopefully with more predictable, sane results.
 
-Post Script: It's important to maintain respect for the office.  That's what I keep telling myself.</content><author><name></name></author><summary type="html">One year into the Trump Presidency, let's try to predict the future. Because that goes well.</summary></entry><entry><title type="html">Polentz Ramble</title><link href="http://localhost:4000/2018/01/03/polentz-ramble.html" rel="alternate" type="text/html" title="Polentz Ramble" /><published>2018-01-03T13:00:00-06:00</published><updated>2018-01-03T13:00:00-06:00</updated><id>http://localhost:4000/2018/01/03/polentz-ramble</id><content type="html" xml:base="http://localhost:4000/2018/01/03/polentz-ramble.html">I've volunteered to run a Promethean game for my RPG group as our regular  storyteller got a little worn out after running game for a year.  That's rough to do.  And the Storyteller System games is a tough rule set to keep in your head.  I've run games before and so I was happy to do it.  Actually, I'm certain that everyone else in the group has run, but I volunteered.
+{% capture postscript %}
+It's important to maintain respect for the office.  That's what I keep telling myself.
+{% endcapture %}
+
+{% include alert_box.html content=postscript title=&quot;Post Script&quot; type=&quot;post_script&quot; %}</content><author><name></name></author><summary type="html">One year into the Trump Presidency, let's try to predict the future. Because that goes well.</summary></entry><entry><title type="html">Polentz Ramble</title><link href="http://localhost:4000/2018/01/03/polentz-ramble.html" rel="alternate" type="text/html" title="Polentz Ramble" /><published>2018-01-03T13:00:00-06:00</published><updated>2018-01-03T13:00:00-06:00</updated><id>http://localhost:4000/2018/01/03/polentz-ramble</id><content type="html" xml:base="http://localhost:4000/2018/01/03/polentz-ramble.html">I've volunteered to run a Promethean game for my RPG group as our regular  storyteller got a little worn out after running game for a year.  That's rough to do.  And the Storyteller System games is a tough rule set to keep in your head.  I've run games before and so I was happy to do it.  Actually, I'm certain that everyone else in the group has run, but I volunteered.
 
 Promethean is a fun game and very different within the Chronicles of Darkness series.  It's the only one that can have a happy ending.  The player characters are artificial life forms in the style of Frankenstein's monster.  They're created from dead, or never living, matter and, through &quot;the divine fire&quot;, made life.  From that point they're on a quest to become mortal.
 
@@ -210,7 +190,11 @@ The writing here is key.  It needs to sound real for each variant of The John. 
 
 All three of those actors play significantly different characters in their careers.  I just think it would be interesting to see how their acting choices change the narrative.
 
-Post Script: From everything I've heard John Turturro is a wonderful man, he's just a little typecast.</content><author><name></name></author><summary type="html">I had a trite idea for a film.</summary></entry><entry><title type="html">Happy New Year 2018!</title><link href="http://localhost:4000/2018/01/01/happy-new-year-2018.html" rel="alternate" type="text/html" title="Happy New Year 2018!" /><published>2018-01-01T13:00:00-06:00</published><updated>2018-01-01T13:00:00-06:00</updated><id>http://localhost:4000/2018/01/01/happy-new-year-2018</id><content type="html" xml:base="http://localhost:4000/2018/01/01/happy-new-year-2018.html">Happy New Year!  To you and yours: Be well and thanks for stopping by.
+{% capture postscript %}
+From everything I've heard John Turturro is a wonderful man, he's just a little typecast.
+{% endcapture %}
+
+{% include alert_box.html content=postscript title=&quot;Post Script&quot; type=&quot;post_script&quot; %}</content><author><name></name></author><summary type="html">I had a trite idea for a film.</summary></entry><entry><title type="html">Happy New Year 2018!</title><link href="http://localhost:4000/2018/01/01/happy-new-year-2018.html" rel="alternate" type="text/html" title="Happy New Year 2018!" /><published>2018-01-01T13:00:00-06:00</published><updated>2018-01-01T13:00:00-06:00</updated><id>http://localhost:4000/2018/01/01/happy-new-year-2018</id><content type="html" xml:base="http://localhost:4000/2018/01/01/happy-new-year-2018.html">Happy New Year!  To you and yours: Be well and thanks for stopping by.
 
 I'll be spending the last day of my holiday cleaning the house and generally avoiding the freezing temperatures outside.  As I write this, the sun is shining and it's all of 24 degrees outside.  I don't know how I'll get my steps in today, but it's easy to imagine that it will be cold and miserable as I do so. At least it's 2018!  Happy New Year's y'all!
 
@@ -250,7 +234,11 @@ In the mean time I'm spending hours traveling from store to store, inspecting ea
 
 This is why I can't afford a house.
 
-Post Script: I don't see the blogging about kitchen stuff ending.</content><author><name></name></author><summary type="html">Looking for a new coffee pot should be easier than I make it.</summary></entry><entry><title type="html">A Few Notes On the Jack Ryan Film Series</title><link href="http://localhost:4000/2017/12/12/jack-ryan-film-series.html" rel="alternate" type="text/html" title="A Few Notes On the Jack Ryan Film Series" /><published>2017-12-12T13:00:00-06:00</published><updated>2017-12-12T13:00:00-06:00</updated><id>http://localhost:4000/2017/12/12/jack-ryan-film-series</id><content type="html" xml:base="http://localhost:4000/2017/12/12/jack-ryan-film-series.html">Now that Amazon Prime is available on Apple TV I've finally signed up for it.  I'm really looking forward to seeing &lt;em&gt;The Man in the High Castle&lt;/em&gt;.  But that wasn't enough of a reason for me to go through the trouble of watching online or buying another device to hook up to my tv and stream.  I have two remotes: my TV remote and my Apple TV remote.  The TV remote is needed to turn on the TV.  The Apple TV remote does everything else including sound.  Sometimes I go to people's house and they have five remotes and it takes fifteen minutes for me to turn on Netflix with sound (&lt;em&gt;cough &lt;/em&gt;Dad &lt;em&gt;cough&lt;/em&gt;).
+{% capture postscript %}
+I don't see the blogging about kitchen stuff ending.
+{% endcapture %}
+
+{% include alert_box.html content=postscript title=&quot;Post Script&quot; type=&quot;post_script&quot; %}</content><author><name></name></author><summary type="html">Looking for a new coffee pot should be easier than I make it.</summary></entry><entry><title type="html">A Few Notes On the Jack Ryan Film Series</title><link href="http://localhost:4000/2017/12/12/jack-ryan-film-series.html" rel="alternate" type="text/html" title="A Few Notes On the Jack Ryan Film Series" /><published>2017-12-12T13:00:00-06:00</published><updated>2017-12-12T13:00:00-06:00</updated><id>http://localhost:4000/2017/12/12/jack-ryan-film-series</id><content type="html" xml:base="http://localhost:4000/2017/12/12/jack-ryan-film-series.html">Now that Amazon Prime is available on Apple TV I've finally signed up for it.  I'm really looking forward to seeing &lt;em&gt;The Man in the High Castle&lt;/em&gt;.  But that wasn't enough of a reason for me to go through the trouble of watching online or buying another device to hook up to my tv and stream.  I have two remotes: my TV remote and my Apple TV remote.  The TV remote is needed to turn on the TV.  The Apple TV remote does everything else including sound.  Sometimes I go to people's house and they have five remotes and it takes fifteen minutes for me to turn on Netflix with sound (&lt;em&gt;cough &lt;/em&gt;Dad &lt;em&gt;cough&lt;/em&gt;).
 
 But the reason I am willing to pay for it is they're doing a Jack Ryan TV series starting next year.  I've been Jack Ryan fan since I was in the sixth grade.   Even though Jack Ryan on screen has been somewhat hit or miss, I'm really looking forward to it.  Ahead of that, I thought I'd express some thoughts on the film series so far.
 &lt;h3&gt;The Hunt for Red October&lt;/h3&gt;
@@ -314,4 +302,8 @@ High Point: Gary Oldman swearing in Russian.
 
 Low Point: Not technically a Jack Ryan film.
 
-Post Script: Why do I always feel the need to apologize for liking Ben Affleck films?</content><author><name></name></author><summary type="html">The Jack Ryan book series is one of my favorites. With the new Amazon television series coming soon, I run down it's difficult history in film.</summary></entry></feed>
+{% capture postscript %}
+Why do I always feel the need to apologize for liking Ben Affleck films?
+{% endcapture %}
+
+{% include alert_box.html content=postscript title=&quot;Post Script&quot; type=&quot;post_script&quot; %}</content><author><name></name></author><summary type="html">The Jack Ryan book series is one of my favorites. With the new Amazon television series coming soon, I run down it's difficult history in film.</summary></entry></feed>

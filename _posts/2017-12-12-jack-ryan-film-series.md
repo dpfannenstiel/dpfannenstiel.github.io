@@ -69,4 +69,8 @@ High Point: Gary Oldman swearing in Russian.
 
 Low Point: Not technically a Jack Ryan film.
 
-Post Script: Why do I always feel the need to apologize for liking Ben Affleck films?
+{% capture postscript %}
+Why do I always feel the need to apologize for liking Ben Affleck films?
+{% endcapture %}
+
+{% include alert_box.html content=postscript title="Post Script" type="post_script" %}

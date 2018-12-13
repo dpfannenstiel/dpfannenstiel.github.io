@@ -23,4 +23,8 @@ Attrition was the application of a destiny draw, known as "battle destiny", to a
 
 Tragically, Lucasfilm elected to not renew its license to Decipher in about 2001.  A few years later, Decipher attempted to revive the game system (I call it the Wars Engine, ignorant if others do) with original IP.  Alas, internal complications prevented it from succeeding.
 
-Post Script: I've titled this "Part  1" because there's no possibility that there won't be, at least, a Part 2.
+{% capture postscript %}
+I've titled this "Part  1" because there's no possibility that there won't be, at least, a Part 2.
+{% endcapture %}
+
+{% include alert_box.html content=postscript title="Post Script" type="post_script" %}

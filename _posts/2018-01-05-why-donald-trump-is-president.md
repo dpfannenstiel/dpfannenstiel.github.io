@@ -62,4 +62,8 @@ A smart person once said that "decisions are made by those who show up".  Year 
 
 Also, don't vote for Jill Stein.  I'm looking at you Michigan.
 
-Post Script: How weird is it that Bill Clinton, George W. Bush, and Donald Trump were all born in 1946?
+{% capture postscript %}
+How weird is it that Bill Clinton, George W. Bush, and Donald Trump were all born in 1946?
+{% endcapture %}
+
+{% include alert_box.html content=postscript title="Post Script" type="post_script" %}

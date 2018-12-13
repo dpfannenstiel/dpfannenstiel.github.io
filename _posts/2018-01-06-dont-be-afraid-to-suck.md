@@ -33,4 +33,8 @@ You don't have to be Adam Savage to be a maker.  All you have to do is sit down
 
 One last thing, in addition to the comedians linked above check out <a href="https://twitter.com/johncheese">John Cheese</a>, <a href="https://twitter.com/kawillert">Katie Willert</a>, and <a href="https://www.patreon.com/posts/why-i-left-by-15727831">Katy Stoll</a>.  They're also wonderful Cracked alumni who are worth following and I look forward to seeing what comes next.  I don't know any of these guys, but, through their work, I've had breakfast with them every day for years.
 
-Post Script: All of those videos have NSFW language.  This probably should have been a "Pre Script" ... that can't be right, that's not a thing.
+{% capture postscript %}
+All of those videos have NSFW language.  This probably should have been a "Pre Script" ... that can't be right, that's not a thing.
+{% endcapture %}
+
+{% include alert_box.html content=postscript title="Post Script" type="post_script" %}

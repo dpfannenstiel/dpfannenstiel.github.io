@@ -25,4 +25,8 @@ Should any candidate fail to receive the required 270 electoral college votes, t
 <h3>Trump Is Unavailable to Run</h3>
 Finally, there is the possibility, however unlikely that Donald Trump is unavailable to run due to changes in his health or legal status.  In this case a full Republican Primary is run.  Hopefully with more predictable, sane results.
 
-Post Script: It's important to maintain respect for the office.  That's what I keep telling myself.
+{% capture postscript %}
+It's important to maintain respect for the office.  That's what I keep telling myself.
+{% endcapture %}
+
+{% include alert_box.html content=postscript title="Post Script" type="post_script" %}

@@ -24,35 +24,3 @@ I was so very, very wrong in my last post.  Really missed the mark.
 {% endcapture %}
 
 {% include alert_box.html content=postscript title="Post Script" type="post_script" %}
-
-{% capture info_message %}
-**INFO:** This is info message. `This is code.`  [This is link](http://www.cnn.com). *Italics.*
-{% endcapture %}
-
-{% capture warning_message %}
-**WARNING:** This is warning message. `This is code.`  [This is link](http://www.cnn.com). *Italics.*
-{% endcapture %}
-
-{% capture note_message %}
-**NOTE:** This is note message. `This is code.`  [This is link](http://www.cnn.com). *Italics.*
-{% endcapture %}
-
-{% capture success_message %}
-**SUCCESS:** This is success message. `This is code.`  [This is link](http://www.cnn.com). *Italics.*
-{% endcapture %}
-
-{% include alert_box.html content=info_message title="Post Script" type="info" %}
-
-{% include alert_box.html content=info_message type="info" %}
-
-{% include alert_box.html content=warning_message title="Post Script" type="warning" %}
-
-{% include alert_box.html content=warning_message type="warning" %}
-
-{% include alert_box.html content=note_message title="Post Script" type="note" %}
-
-{% include alert_box.html content=note_message type="note" %}
-
-{% include alert_box.html content=success_message title="Post Script" type="success" %}
-
-{% include alert_box.html content=success_message type="success" %}

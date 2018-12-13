@@ -27,4 +27,8 @@ I haven't found anything yet that I don't prefer cooking on parchment paper to a
 ![Maple pork chops with bacon sweet potato hash.](/images/posts/parchment-paper/IMG_1088-768x576.jpg "Maple pork chops with bacon sweet potato hash.")
 *Maple pork chops with bacon sweet potato hash.*
 
-Post Script:  Not worth it.  The pork chops were too thick to cook or eat reasonably.
+{% capture postscript %}
+Not worth it.  The pork chops were too thick to cook or eat reasonably.
+{% endcapture %}
+
+{% include alert_box.html content=postscript title="Post Script" type="post_script" %}

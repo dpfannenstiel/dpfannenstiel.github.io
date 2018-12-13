@@ -25,4 +25,8 @@ In the mean time I'm spending hours traveling from store to store, inspecting ea
 
 This is why I can't afford a house.
 
-Post Script: I don't see the blogging about kitchen stuff ending.
+{% capture postscript %}
+I don't see the blogging about kitchen stuff ending.
+{% endcapture %}
+
+{% include alert_box.html content=postscript title="Post Script" type="post_script" %}

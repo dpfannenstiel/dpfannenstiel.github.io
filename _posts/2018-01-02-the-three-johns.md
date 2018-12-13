@@ -27,4 +27,8 @@ The writing here is key.  It needs to sound real for each variant of The John. 
 
 All three of those actors play significantly different characters in their careers.  I just think it would be interesting to see how their acting choices change the narrative.
 
-Post Script: From everything I've heard John Turturro is a wonderful man, he's just a little typecast.
+{% capture postscript %}
+From everything I've heard John Turturro is a wonderful man, he's just a little typecast.
+{% endcapture %}
+
+{% include alert_box.html content=postscript title="Post Script" type="post_script" %}
