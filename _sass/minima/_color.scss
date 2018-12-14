@@ -147,3 +147,11 @@ $color-success-code-background: $color-success-dark;
 	color: $color-success-code;
 	background-color: $color-success-code-background;
 }
+
+.trailer {
+	border-color: $color-info-border;
+}
+
+.trailer > .box-header {
+	background-color: $color-info-header;
+}

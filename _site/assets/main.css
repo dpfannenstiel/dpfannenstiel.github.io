@@ -371,6 +371,9 @@ strong.pagination {
   padding-left: 0.809rem;
   padding-right: 0.809rem; }
 
+.trailer > .box-header {
+  text-align: center; }
+
 .alert > li,
 .alert > ol,
 .alert > ul {
@@ -382,9 +385,17 @@ strong.pagination {
 .alert {
   margin-bottom: 0.4045rem; }
 
+.trailer-content,
 .alert > .alert_content {
   padding-left: 0.809rem;
   padding-right: 0.809rem; }
+
+.trailer-content {
+  padding-bottom: 0.809rem; }
+
+.trailer-content h4 {
+  margin-bottom: 0px;
+  padding-bottom: 0px; }
 
 #wrapper > footer,
 .alert h4 {
@@ -399,6 +410,19 @@ h1, h4 {
 
 .alert p:last-child {
   padding-bottom: 0; }
+
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; }
+
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
 
 /**
  * Syntax highlighting styles
@@ -544,6 +568,9 @@ h1, h4 {
 .alert {
   border: 1px solid; }
 
+.trailer {
+  border: 1px solid; }
+
 /*************************************************************************
 							Alert Colors
 /*************************************************************************/
@@ -609,3 +636,9 @@ h1, h4 {
 .success code {
   color: #10650c;
   background-color: #85f080; }
+
+.trailer {
+  border-color: #a3baec; }
+
+.trailer > .box-header {
+  background-color: #a3baec; }

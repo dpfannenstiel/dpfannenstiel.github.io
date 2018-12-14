@@ -1,0 +1,26 @@
+---
+layout: post
+---
+
+<div class="trailer">
+	<div class="box-header">
+		<h2>{{ page.trailer.title }}</h2>
+	</div>
+	<div class="trailer-content">
+	{% if page.trailer.subtitle %}
+	<h4>{{ page.trailer.subtitle }}</h4>
+	{% endif %}
+	{% if page.trailer.release_date %}
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+	<p><strong>Released: </strong>{{ page.trailer.release_date | date: date_format }}</p>
+	{% endif %}
+	<div class="video-container">
+		<!--
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.trailer.embed_id }}" frameborder="0" allowfullscreen></iframe>
+-->
+	<iframe src="https://www.youtube.com/embed/{{ page.trailer.embed_id }}" frameborder="0" allowfullscreen class="video"></iframe>
+	</div>
+	</div>
+</div>
+
+{{ content }}

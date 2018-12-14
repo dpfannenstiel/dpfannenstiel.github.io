@@ -260,6 +260,10 @@ $l-h-baseline-half: $l-h-default * 0.25;
   padding-right: $l-h-baseline;
 }
 
+.trailer > .box-header {
+  text-align: center;  
+}
+
 .alert > li,
 .alert > ol,
 .alert > ul {
@@ -277,9 +281,19 @@ $l-h-baseline-half: $l-h-default * 0.25;
   margin-bottom: $l-h-baseline-half;
 }
 
+.trailer-content,
 .alert > .alert_content {
   padding-left: $l-h-baseline;
   padding-right: $l-h-baseline;
+}
+
+.trailer-content {
+  padding-bottom: $l-h-baseline;
+}
+
+.trailer-content h4 {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 
 //---------------------------BASELINE
@@ -302,4 +316,18 @@ h1, h4 {
  //---------------------------NONE
 .alert p:last-child {
   padding-bottom: 0;
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
