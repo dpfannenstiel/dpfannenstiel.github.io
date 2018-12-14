@@ -15,6 +15,5 @@ The contents of the following directories are Copyright Dustin Pfannenstiel. The
 * _drafts/
 * images/
 * pages/
-* assets/
 
 All other directories and files are MIT Licensed except where other author's licenses apply.  Do what you will with them, links back are appreciated.
