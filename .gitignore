@@ -1,5 +1,6 @@
 # I want to start publishing myself.
 # _site/
+_serve/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
