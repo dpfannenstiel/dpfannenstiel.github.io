@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://dpfannenstiel.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dpfannenstiel.github.io/" rel="alternate" type="text/html" /><updated>2018-12-14T17:28:07-06:00</updated><id>https://dpfannenstiel.github.io/feed.xml</id><title type="html">DMP in ATX</title><subtitle>The incredibly nerdy blog of Dustin Pfannenstiel, social media ex-pat.</subtitle><entry><title type="html">Technical Debt and the Last Jedi</title><link href="https://dpfannenstiel.github.io/2018/01/08/technical-debt-last-jedi.html" rel="alternate" type="text/html" title="Technical Debt and the Last Jedi" /><published>2018-01-08T13:00:00-06:00</published><updated>2018-01-08T13:00:00-06:00</updated><id>https://dpfannenstiel.github.io/2018/01/08/technical-debt-last-jedi</id><content type="html" xml:base="https://dpfannenstiel.github.io/2018/01/08/technical-debt-last-jedi.html">&lt;p&gt;Note: Spoilers throughout this article.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://dpfannenstiel.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dpfannenstiel.github.io/" rel="alternate" type="text/html" /><updated>2018-12-14T17:49:25-06:00</updated><id>https://dpfannenstiel.github.io/feed.xml</id><title type="html">DMP in ATX</title><subtitle>The incredibly nerdy blog of Dustin Pfannenstiel, social media ex-pat.</subtitle><entry><title type="html">Stranger Things Continue</title><link href="https://dpfannenstiel.github.io/2018/12/14/stranger-things-season-3.html" rel="alternate" type="text/html" title="Stranger Things Continue" /><published>2018-12-14T17:48:00-06:00</published><updated>2018-12-14T17:48:00-06:00</updated><id>https://dpfannenstiel.github.io/2018/12/14/stranger-things-season-3</id><content type="html" xml:base="https://dpfannenstiel.github.io/2018/12/14/stranger-things-season-3.html">&lt;p&gt;The teaser trailer for &lt;em&gt;Stranger Things&lt;/em&gt; Season 3 dropped and it sure lives up to it’s name as a “tease”.
+When the music started playing my brother heard it from the next room and shouted, “Is that ‘Stranger Things’,” before coming over to watch.&lt;/p&gt;
+
+&lt;p&gt;All it told us, presumeably, was the title of the eight episodes of season 3.
+If you’ve seen season 2 and have lived on the internet at all you can probably take a guess at some of the things going on in these episodes.
+And I will.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Suzie, Do You Copy?
+    &lt;ul&gt;
+      &lt;li&gt;This title is interesting just because it’s so different from the rest of the titles.  I think this ties back to “Starcourt” in the last episode.  Maybe a RPG character is the titular Suzie.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The Mall Rats
+    &lt;ul&gt;
+      &lt;li&gt;Everyone is still too young to have a job, but malls are a place to have some independence.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The Case of the Missing Lifeguard&lt;/li&gt;
+  &lt;li&gt;The Sauna Test
+    &lt;ul&gt;
+      &lt;li&gt;Some sort of insane endurance test in a sauna to prove they’re not infected from the upside down.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The Source
+    &lt;ul&gt;
+      &lt;li&gt;Eleven has a sister of sorts.  I think she’s been setup to be the Big Bad of season three.  I bet this is where the Party finds that out.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The Birthday&lt;/li&gt;
+  &lt;li&gt;The Bite&lt;/li&gt;
+  &lt;li&gt;The Battle of Starcourt
+    &lt;ul&gt;
+      &lt;li&gt;A lot of &lt;em&gt;Stranger Things&lt;/em&gt; mythos comes from D&amp;amp;D, “Starcourt” will be their analogue to explain something.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I suppose we’ll find out eventually.  As the trailer promises…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the summer of 1985,&lt;/p&gt;
+
+  &lt;p&gt;The adventure continues…&lt;/p&gt;
+
+  &lt;p&gt;Coming 2019&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">The trailer for stranger things dropped and it's every bit as frustrating as you can imagine.</summary></entry><entry><title type="html">Technical Debt and the Last Jedi</title><link href="https://dpfannenstiel.github.io/2018/01/08/technical-debt-last-jedi.html" rel="alternate" type="text/html" title="Technical Debt and the Last Jedi" /><published>2018-01-08T13:00:00-06:00</published><updated>2018-01-08T13:00:00-06:00</updated><id>https://dpfannenstiel.github.io/2018/01/08/technical-debt-last-jedi</id><content type="html" xml:base="https://dpfannenstiel.github.io/2018/01/08/technical-debt-last-jedi.html">&lt;p&gt;Note: Spoilers throughout this article.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Star Wars: The Last Jedi&lt;/em&gt; has been out for a few weeks now to mixed reviews.  Most people I know disliked the film.  My brother is pretty ambivalent about it, which I guess I understand.  I have less understanding for the people who outright dislike it.  Adam Savage’s podcast “Still Untitled” had a wonderful &lt;a href=&quot;https://itunes.apple.com/us/podcast/last-jedi-spoilercast-still-untitled-adam-savage-project/id586730504?i=1000397863360&amp;amp;mt=2&quot;&gt;review of the film&lt;/a&gt;.  I’ll try not repeat him too much, but I believe it was there that I did hear someone say, “&lt;em&gt;Star Wars&lt;/em&gt; was always a children’s film”.  I like that.&lt;/p&gt;
 
@@ -333,85 +379,4 @@ I hope, also, to improve the styling of these pages.  I have absolutely no idea
 I don't see the blogging about kitchen stuff ending.
 
 	&lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Looking for a new coffee pot should be easier than I make it.</summary></entry><entry><title type="html">A Few Notes On the Jack Ryan Film Series</title><link href="https://dpfannenstiel.github.io/2017/12/12/jack-ryan-film-series.html" rel="alternate" type="text/html" title="A Few Notes On the Jack Ryan Film Series" /><published>2017-12-12T13:00:00-06:00</published><updated>2017-12-12T13:00:00-06:00</updated><id>https://dpfannenstiel.github.io/2017/12/12/jack-ryan-film-series</id><content type="html" xml:base="https://dpfannenstiel.github.io/2017/12/12/jack-ryan-film-series.html">&lt;p&gt;Now that Amazon Prime is available on Apple TV I’ve finally signed up for it.  I’m really looking forward to seeing &lt;em&gt;The Man in the High Castle&lt;/em&gt;.  But that wasn’t enough of a reason for me to go through the trouble of watching online or buying another device to hook up to my tv and stream.  I have two remotes: my TV remote and my Apple TV remote.  The TV remote is needed to turn on the TV.  The Apple TV remote does everything else including sound.  Sometimes I go to people’s house and they have five remotes and it takes fifteen minutes for me to turn on Netflix with sound (&lt;em&gt;cough &lt;/em&gt;Dad &lt;em&gt;cough&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;But the reason I am willing to pay for it is they’re doing a Jack Ryan TV series starting next year.  I’ve been Jack Ryan fan since I was in the sixth grade.   Even though Jack Ryan on screen has been somewhat hit or miss, I’m really looking forward to it.  Ahead of that, I thought I’d express some thoughts on the film series so far.&lt;/p&gt;
-&lt;h3&gt;The Hunt for Red October&lt;/h3&gt;
-&lt;p&gt;Dustin’s Score: 10/10&lt;/p&gt;
-
-&lt;p&gt;The gold standard for Jack Ryan movies.  The casting was perfect.  From Alec Baldwin to Sean Connery to &lt;del&gt;Glenn Scott&lt;/del&gt; Scott Glenn to Fred Thompson to &lt;span class=&quot;itemprop&quot;&gt;Courtney B. Vance.  More than James Bond - you know what.  I’m going to hold my thoughts and give this one a whole post later.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;High Point: Sean Connery’s Marko Ramius was absolutely amazing.&lt;/p&gt;
-
-&lt;p&gt;Low Point: Alec Baldwin’s only outing as Jack Ryan.&lt;/p&gt;
-&lt;h3&gt;Patriot Games&lt;/h3&gt;
-&lt;p&gt;Dustin’s Score: 6/10&lt;/p&gt;
-
-&lt;p&gt;Jack Ryan’s sophomore film outing was thoroughly forgettable.  Despite picking up Harrison Ford and then pairing him with Samuel L. Jackson &lt;em&gt;while&lt;/em&gt; practically starting the “Sean Bean dies” trope this movie misfired on all cylinders.  Ford played Jack Ryan competently as an “every man” but changes to the story to make it fit in the continuity of &lt;em&gt;The &lt;/em&gt;&lt;i&gt;Hunt For Red October&lt;/i&gt; were almost jarring.&lt;/p&gt;
-
-&lt;p&gt;High Point: Harrison Ford.&lt;/p&gt;
-
-&lt;p&gt;Low Point: Sean Bean dies.&lt;/p&gt;
-&lt;h3&gt;Clear And Present Danger&lt;/h3&gt;
-&lt;p&gt;Dustin’s Score: 8/10&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Patriot Games&lt;/em&gt; did so well that Harrison Ford almost didn’t come back.  Ultimately, I’m glad he did.  &lt;em&gt;Clear And Present Danger&lt;/em&gt; did a wonderful job of setting up Felix Cortez (wonderfully played by &lt;span class=&quot;itemprop&quot;&gt;Joaquim de Almeida) as a mirror to Jack Ryan.  The juxtaposition of Ryan and Cortez throughout the film was a little ham fisted, at one point even referring to Cortez as a “latin Jack Ryan”.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;The injection of Willem Dafoe to the series, however, was masterful.  Dafoe plays John Clark with a degree of steely madness that only he could harness.  Moving between cover operations and field operations John Clark had more depth than any other character in the film.  Though, Ding really jumped off the page as well.&lt;/p&gt;
-
-&lt;p&gt;High Point: Willem Dafoe and Raymond Cruz will be John Clark and Domingo Chavez in my mind’s eye until the day I die.&lt;/p&gt;
-
-&lt;p&gt;Low Point: Dan Murray dies.  Also this article may contain spoilers.&lt;/p&gt;
-&lt;h3&gt;Sum Of All Fears&lt;/h3&gt;
-&lt;p&gt;Dustin’s Score: 4/10&lt;/p&gt;
-
-&lt;p&gt;This was the beginning of the fucking end.  I don’t mind Ben Affleck as Ryan.  I liked that they were trying to get back to a younger Jack Ryan and re-boot the series.  However they turned Jack Ryan into an action hero.  Jack Ryan isn’t an action hero.  He’s a guy who laments not putting things in a “god damned memo”.&lt;/p&gt;
-
-&lt;p&gt;Despite being a weak film, it did $192 million on a $68 million budget (yes, I’m using Wikipedia for help on this blog).  So now, Hollywood has learned a lesson.  Take any beloved franchise and turn it into an action genre with huge explosions and it’ll be a massive success.  Here’s a brief list of things that have been ruined because of this film’s success:&lt;/p&gt;
-&lt;ul&gt;
- 	&lt;li&gt;MacGyver&lt;/li&gt;
- 	&lt;li&gt;Star Trek&lt;/li&gt;
- 	&lt;li&gt;Transformers&lt;/li&gt;
- 	&lt;li&gt;The Mummy&lt;/li&gt;
- 	&lt;li&gt;G.I. Joe&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;High Point: Liev Schreiber as John Clark.  I was really hoping he’s also get the &lt;em&gt;Without Remorse&lt;/em&gt; film as well, but that seems to have been killed.&lt;/p&gt;
-
-&lt;p&gt;Low Point: I honestly forgot about this movie when I was first compiling this list.  I feel really bad about that.&lt;/p&gt;
-&lt;h3&gt;Jack Ryan: Shadow Recruit&lt;/h3&gt;
-&lt;p&gt;Dustin’s Score: 4/10&lt;/p&gt;
-
-&lt;p&gt;The second reboot of the Jack Ryan series doesn’t fare much differently than &lt;i&gt;The Sum of All Fears&lt;/i&gt;.  Again we have a young Jack Ryan, this time played by Chris Pine.  Chris Pine can play the everyman.  I’ve seen him do it (&lt;em&gt;Hell or High Water&lt;/em&gt; is a wonderful film that you should see, but will not enjoy).  But again, Jack Ryan is an action hero.&lt;/p&gt;
-
-&lt;p&gt;The film is beautifully shot.  There’s a sense of depth throughout the movie that just didn’t exist in previous films.&lt;/p&gt;
-
-&lt;p&gt;High Point: Kenneth Branagh as the villain and director.&lt;/p&gt;
-
-&lt;p&gt;Low Point: The plot.&lt;/p&gt;
-&lt;h3&gt;Air Force One (Honorable Mention)&lt;/h3&gt;
-&lt;p&gt;Dustin’s Score: 9/10&lt;/p&gt;
-
-&lt;p&gt;I’m not going to go into detail since it’s, technically, not a Jack Ryan film, but there’s absolutely no reason it couldn’t have been.  Just throwing that out there.&lt;/p&gt;
-
-&lt;p&gt;High Point: Gary Oldman swearing in Russian.&lt;/p&gt;
-
-&lt;p&gt;Low Point: Not technically a Jack Ryan film.&lt;/p&gt;
-
-&lt;!--
-	Parameters:
-		content - the text
-		type - optional type information
-		title - optional title information
---&gt;
-&lt;div class=&quot;post_script alert&quot;&gt;
-	
-		&lt;div class=&quot;box-header&quot;&gt;
-			Post Script
-		&lt;/div&gt;
-	
-	&lt;div class=&quot;alert_content&quot;&gt;
-		
-Why do I always feel the need to apologize for liking Ben Affleck films?
-
-	&lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">The Jack Ryan book series is one of my favorites. With the new Amazon television series coming soon, I run down it's difficult history in film.</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Looking for a new coffee pot should be easier than I make it.</summary></entry></feed>
