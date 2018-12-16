@@ -9,8 +9,7 @@ Parchment paper is my new boo in the kitchen.  I've been using it since I moved
 
 There's no two ways about it, I'm kind of lazy.  Not in a "toast is difficult" sort of way, but in a cost/benefit sort of way.  I guess it would be better to say I'm "temporally economical".  At one point spent an evening making Maple Pork Chops (or some such insanity) for dinner.  It took three hours, start to finish, and used every dish I owned.  Every dish. I don't have a problem spending money, investing time, or fulfilling some other cost so long as an appropriate benefit is realized.
 
-![A collection of dishes, flat ware, knives, pans, cutting boards.](/images/posts/parchment-paper/IMG_1090-2-768x1024.jpg "Every dish I own.")
-*Every dish I own.*
+{% include post_image.html file="/images/posts/parchment-paper/IMG_1090-2-768x1024.jpg" alt="A collection of dishes, flat ware, knives, pans, cutting boards." title="Every dish I own." caption="Every dish I own." %}
 
 Which brings us to the Parchment Paper.  I will confess to being a little uncertain about the difference between parchment paper and bakery release paper.  I know there's a cooking technique where you wrap food in paper to cook it and, based on my limited understanding, is something different.  What Reynolds and H-E-B sell as "parchment paper" is more likely bakery paper.  It's a thin paper that, from a few feet, visually looks like wax paper, but is very different.  Whereas wax paper is paper covered in wax, making it resistant to liquid, bakery paper is impregnated with silicone, making it nonstick.
 
@@ -24,8 +23,7 @@ Baked chicken has by far been the star for this process.  Chicken is one of tho
 </ol>
 I haven't found anything yet that I don't prefer cooking on parchment paper to aluminum foil or just on the baking sheet.  Just today I reheated pizza in the oven and put it on parchment paper to keep the cheese from melting to things.  It turned out beautifully.
 
-![Maple pork chops with bacon sweet potato hash.](/images/posts/parchment-paper/IMG_1088-768x576.jpg "Maple pork chops with bacon sweet potato hash.")
-*Maple pork chops with bacon sweet potato hash.*
+{% include post_image.html file="/images/posts/parchment-paper/IMG_1088-768x576.jpg" alt="Maple pork chops with bacon sweet potato hash." title="Maple pork chops with bacon sweet potato hash." caption="Maple pork chops with bacon sweet potato hash." %}
 
 {% capture postscript %}
 Not worth it.  The pork chops were too thick to cook or eat reasonably.
