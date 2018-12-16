@@ -11,11 +11,11 @@ In the meat space, hacker spaces like TechShop (more on that in another post) ha
 
 Recently a number of comedians I've been following for ten years have separated from the comedy site they've been working for just as long.  Here are personal favorites that are really worth checking out:
 
-<iframe src="https://www.youtube.com/embed/yfrmm_Fey_I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+{% assign embed_ids = "yfrmm_Fey_I, aVhwbS-_SJ4, LO2bHcbyKyY" | split: ", " %}
 
-<iframe src="https://www.youtube.com/embed/aVhwbS-_SJ4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-<iframe src="https://www.youtube.com/embed/LO2bHcbyKyY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+{% for embed_id in embed_ids %}
+{% include you_tube_embed.html embed_id=embed_id %}
+{% endfor %}
 
 (I had to stop here, I also recommend <i>Obsessive Pop Culture Disorder</i>, <em>CrackedTV</em>, and just the entire rest of the Cracked video library.)
 
