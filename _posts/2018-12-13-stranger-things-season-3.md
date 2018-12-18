@@ -2,7 +2,7 @@
 layout: trailer
 title:  "Stranger Things Continue"
 date:   2018-12-14 17:48:00 -0600
-categories: television trailers
+categories: television trailer
 excerpt: The trailer for stranger things dropped and it's every bit as frustrating as you can imagine.
 trailer:
   title: Stranger Things Season 3
