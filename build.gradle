@@ -9,7 +9,7 @@ apply from: 'private.gradle'
 
 ext {
 	sourcePath = "site"
-	sitePath = "_site"
+	sitePath = "site/_site"
 	servePath = "site/_serve"
 
 }
