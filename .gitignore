@@ -1,6 +1,14 @@
-# I want to start publishing myself.
-# _site/
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Jekyll files
 _serve/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# Don't include the private gradle settings.
+private.gradle
