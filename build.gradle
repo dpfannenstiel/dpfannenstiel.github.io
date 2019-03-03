@@ -8,9 +8,9 @@
 apply from: 'private.gradle'
 
 ext {
-	sourcePath = "site"
-	sitePath = "site/_site"
-	servePath = "site/_serve"
+	sourcePath = "jekyll"
+	sitePath = "_site"
+	servePath = "jekyll/_serve"
 
 }
 
@@ -49,13 +49,13 @@ class Jekyll extends Bundler {
 	}
 
 	void serve() {
-		def arguments = ['-s', 'site', '-d', destination]
+		def arguments = ['-s', source, '-d', destination]
 		if (drafts == true) arguments.add('-D')
 		jekyll('serve', *arguments)
 	}
 
 	void build() {
-		def arguments = ['-s', 'site', '-I', '-d', destination]
+		def arguments = ['-s', source, '-I', '-d', destination]
 		jekyll('build', *arguments)
 	}
 }
@@ -104,6 +104,6 @@ task publish() {
 	dependsOn build
 	// commandLine 'scp', '-r', "$projectDir/$sitePath/*", serverHostingPath
 	doLast {
-		println "scp -r site/_site/* $serverHostingPath"
+		println "scp -r $sitePath/* $serverHostingPath"
 	}
 }
