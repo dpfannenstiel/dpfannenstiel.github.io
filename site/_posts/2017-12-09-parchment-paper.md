@@ -6,8 +6,4 @@ categories: soapbox cooking
 excerpt: I have a new boo in the kitchen.  I use it almost every day and it's changing the way I cook.
 ---
 
-{% capture postscript %}
-Not worth it.  The pork chops were too thick to cook or eat reasonably.
-{% endcapture %}
-
-{% include alert_box.html content=postscript title="Post Script" type="post_script" %}
+THE FUCK!
