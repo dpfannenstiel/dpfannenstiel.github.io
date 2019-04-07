@@ -1,6 +1,0 @@
-// Fill out these values and copy to 'private.gradle' in order to support publishing
-ext {
-	serverHostingPath = ""
-	personalHostIP = ""
-	personalHostUserName = ""
-}
